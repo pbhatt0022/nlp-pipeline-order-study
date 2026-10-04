@@ -1,0 +1,5 @@
+tokenizer,total_tokens,unique_tokens,term_tokens,term_dictionary_size,shrink_pct,ms
+nltk,253416,18780,222713,16619,11.5,432.9
+spacy,261849,17936,225327,15745,12.2,1111.6
+custom,252750,18837,223004,16664,11.5,116.4
+hybrid,251482,18192,221806,16030,11.9,489.0

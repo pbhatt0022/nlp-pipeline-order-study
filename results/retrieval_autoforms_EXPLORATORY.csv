@@ -1,0 +1,25 @@
+pipeline,our_qid,query,type,ngram_class,n_retrieved,n_relevant,TP,P,R,F1,P@5,P@10,R@5,R@10,cold_ms,warm_ms,retrieved_top10
+A (auto forms),Q01,units,keyword,,27,4,4,0.148,1.0,0.258,0.4,0.3,0.5,0.75,3.827,2.769,D20 D47 D23 D08 D49 D02 D01 D05 D06 D25
+A (auto forms),Q02,"""there Sonic game""",phrase,,0,5,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.288,1.065,
+A (auto forms),Q03,Nintendo AND help,and,,27,9,5,0.185,0.556,0.278,0.2,0.3,0.111,0.333,6.256,5.112,D20 D46 D17 D42 D05 D08 D37 D06 D09 D25
+A (auto forms),Q04,plays OR voice,or,,46,3,2,0.043,0.667,0.082,0.4,0.2,0.667,0.667,5.314,4.476,D45 D37 D03 D24 D36 D41 D06 D42 D34 D21
+A (auto forms),Q05,villains AND NOT Metroid,not,,4,3,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.455,4.608,D52 D31 D27 D16
+A (auto forms),Q06,wrote,keyword,,31,8,6,0.194,0.75,0.308,0.0,0.1,0.0,0.125,1.773,2.614,D04 D24 D50 D43 D18 D47 D37 D12 D17 D22
+A (auto forms),Q07,"""Tomb Raider published""",phrase,,0,5,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.294,1.027,
+A (auto forms),Q08,Cloud AND Kingdom,and,,5,2,2,0.4,1.0,0.571,0.4,0.2,1.0,1.0,5.996,5.061,D18 D26 D53 D31 D16
+A (auto forms),Q09,Guitar OR Hero,or,,18,4,4,0.222,1.0,0.364,0.8,0.4,1.0,1.0,3.797,4.379,D39 D38 D22 D52 D20 D36 D09 D50 D29 D06
+A (auto forms),Q10,third AND NOT person,not,,15,3,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.603,4.825,D20 D49 D19 D01 D06 D08 D36 D25 D43 D04
+A (auto forms),Q11,video,keyword,,53,4,4,0.075,1.0,0.14,0.0,0.0,0.0,0.0,2.723,2.328,D01 D02 D03 D04 D05 D06 D07 D08 D09 D10
+A (auto forms),Q12,"""Super Nintendo Entertainment""",phrase,,3,7,1,0.333,0.143,0.2,0.2,0.1,0.143,0.143,1.983,1.113,D49 D25 D15
+B (auto forms),Q01,units,keyword,,36,4,4,0.111,1.0,0.2,0.4,0.3,0.5,0.75,3.587,2.68,D14 D20 D50 D47 D23 D19 D08 D02 D01 D49
+B (auto forms),Q02,"""there Sonic game""",phrase,,6,5,5,0.833,1.0,0.909,0.8,0.5,0.8,1.0,1.359,1.33,D14 D40 D42 D19 D30 D27
+B (auto forms),Q03,Nintendo AND help,and,,27,9,5,0.185,0.556,0.278,0.2,0.3,0.111,0.333,6.264,4.694,D20 D46 D17 D42 D05 D37 D08 D06 D09 D25
+B (auto forms),Q04,plays OR voice,or,,46,3,2,0.043,0.667,0.082,0.4,0.2,0.667,0.667,4.372,4.489,D45 D37 D03 D24 D36 D41 D06 D42 D34 D21
+B (auto forms),Q05,villains AND NOT Metroid,not,,4,3,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.064,4.396,D52 D31 D27 D16
+B (auto forms),Q06,wrote,keyword,,17,8,3,0.176,0.375,0.24,0.0,0.1,0.0,0.125,1.855,2.181,D47 D24 D17 D04 D19 D51 D37 D41 D30 D53
+B (auto forms),Q07,"""Tomb Raider published""",phrase,,0,5,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.306,1.151,
+B (auto forms),Q08,Cloud AND Kingdom,and,,6,2,2,0.333,1.0,0.5,0.2,0.2,0.5,1.0,5.767,3.975,D18 D26 D53 D34 D31 D16
+B (auto forms),Q09,Guitar OR Hero,or,,23,4,4,0.174,1.0,0.296,0.8,0.4,1.0,1.0,4.08,4.139,D39 D22 D38 D52 D20 D36 D09 D50 D29 D19
+B (auto forms),Q10,third AND NOT person,not,,7,3,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.999,4.084,D49 D19 D01 D06 D36 D43 D04
+B (auto forms),Q11,video,keyword,,53,4,4,0.075,1.0,0.14,0.0,0.0,0.0,0.0,3.009,2.356,D01 D02 D03 D04 D05 D06 D07 D08 D09 D10
+B (auto forms),Q12,"""Super Nintendo Entertainment""",phrase,,3,7,1,0.333,0.143,0.2,0.2,0.1,0.143,0.143,1.755,1.167,D49 D25 D15

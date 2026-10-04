@@ -1,0 +1,5 @@
+stemmer,order,output,leaked_stopword_stems
+porter,stop_then_stem,releas play mani gamer,
+porter,stem_then_stop,thi wa releas ha play mani gamer,thi wa ha
+snowball,stop_then_stem,releas play mani gamer,
+snowball,stem_then_stop,releas play mani gamer,

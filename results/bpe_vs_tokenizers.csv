@@ -1,0 +1,7 @@
+method,total_tokens,vocabulary
+nltk,253416,18780
+spacy,261849,17936
+custom,252750,18837
+hybrid,251482,18192
+bpe_corpus (1000 merges),423824,3242
+bpe_gpt2 (tiktoken),284579,18127

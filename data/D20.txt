@@ -1,0 +1,54 @@
+List of home video game consoles
+A home video game console is a video game console that is designed to be connected to a display device, such as a television, and an external power source as to play video games. While initial consoles were dedicated units with only a few games fixed into the electronic circuits of the system, most consoles since support the use of swappable game media, either through game cartridges, optical discs, or through digital distribution to internal storage. As of 2025, there have been nine console generations, with the current leading manufacturers being Nintendo, Sony, and Microsoft, colloquially known as the "big three".
+There have been numerous home video game consoles since the first commercial unit, the Magnavox Odyssey in 1972. Historically, these consoles have been grouped into generations lasting each about six years based on common technical specifications.
+
+
+Overview
+
+A home video game console is a pre-designed piece of electronic hardware that is meant to be placed at a fixed location at one's home, connected to a display like a television screen or computer monitor, and to an external power source, to play video games on using one or more video game controllers. This differs from a handheld game console which will have a built-in screen, controller buttons/features, and a power supply like a battery or battery pack.
+Earlier home consoles were typically built from a selection of standard and highly customized integrated computer chips, packaged onto circuit boards and cases. Over time, home console design has converged to a degree with personal computers, using similar component and system design, including standardization with main computer chip architecture. Consoles remain as fixed systems, lacking the customization options that personal computer components have, and most consoles include customized components to maximize space and reduce power consumption to provide the best performance for game playing, while lowering costs with reduced storage and memory configurations.
+Home video game consoles typically can play a multitude of games, offered either as game cartridges (or ROM cartridges), on optical media like CD-ROM or DVD, or obtained by digital distribution. Early consoles, also considered dedicated consoles, had games that were fixed in the electronic circuitry of the hardware. Some facets may be controlled by switching external controls on the console but the games could not be changed themselves.
+Most home consoles require a separate game controller, and may support multiple controllers for multiplayer games.  Some console games can only be played with special, unconventional game controllers, such as light guns for rail shooters and guitar controllers for music games.  Some consoles also possess the ability to connect and interface with a particular handheld game system, which certain games can leverage to provide alternate control schemes, second screen gameplay elements, exclusive unlockable content or the ability to transfer certain game data.
+
+
+History
+
+The first commercial video game console was the Magnavox Odyssey, developed by a team led by Ralph H. Baer and released commercially in 1972. It was shortly followed by the release of the home version of Pong by Atari Inc. in 1975 based on the arcade game. A number of clones of both systems rushed to fill the nascent home console market and the video game industry suffered a small recession in 1977 due to this.
+The Fairchild Channel F, released in 1976, was the first console to use game cartridges, which was then used by the Atari VCS and several other consoles of the second generation and led to a second boom in the video game industry in the United States and around the globe. During this time, Atari Inc. had been sold to Warner Communications, and several programmers left the company and founded Activision, becoming the first third-party developer. Activision's success led to a rush of new developers creating games without any publishing controls for these systems. The market became flooded with games, and combined with the rising popularity of the personal computer and the economic recession of the early 1980s, led to the video game crash of 1983 in the U.S. market. Nintendo, which had released its Family Computer console in Japan that year, took several cautionary steps to limit game production to only licensed games, and was able to introduce it, rebranded as the Nintendo Entertainment System (NES) in 1985 into the U.S. market. The NES helped to revive the console market and gave Nintendo dominance during the late 1980s.
+Sega took advantage of the newfound U.S. growth to market its Sega Genesis against the Super Nintendo Entertainment System in the early 1990s in the so-called "console wars" and emphasized the notion of "bits" as a major selling point for consumers. The consumer adoption of optical discs with larger storage capacity in the mid-1995 led many console manufactures to move away from cartridges to CD-ROMs and later to DVDs and other formats, with Sony's PlayStation line introducing even more features that gave it an advantage in the market; the PlayStation 2, released in 2000, remains the best-selling console to date with over 155 million units sold. Microsoft, fearing that the PlayStation 2 was threatening the competitive edge of the personal computer, entered the console space with its Xbox line in 2001. Internet connectivity had become commonplace by the mid-2000s, and nearly all home consoles supported digital distribution and online service offerings by the 2010s.
+With Sony and Microsoft's dominance in hardware capabilities, most other major manufacturers have since dropped out of the hardware business, but maintain a presence in the game development and licensing space. Nintendo remains the only competitor having taken a blue ocean strategy by offering more original console concepts such as motion sensing in the Wii and the hybrid design of the Nintendo Switch.
+Within the home video game console market, the leading consoles have often been grouped into generations, consoles that were major competitors in the marketplace. There have been nine generations of consoles since the 1970s, with a new generation appearing about every five years.
+
+
+List of home video game consoles
+There are more than 1000 home video game consoles known to exist, the vast majority of which were released during the first generation: only 102 home video game consoles were released between the second and current generation, and 15 were canceled. This list is divided into console generations which are named based on the dominant console type of the era, though not all consoles of those eras are of the same type. Some eras are referred to based on how many bits a major console could process. The "128-bit era" (sixth generation) was the final era in which this practice was widespread.
+This list only counts the first iteration of each console's hardware, because several systems have had slim, enhanced or other hardware revisions, but they are not individually listed here. The list also includes unreleased systems. If a series of home video game consoles begins in a generation and lasts to another generation, it is listed in the generation the series began. This list does not claim to be complete.
+This list does not include other types of video game consoles such as handheld game consoles, which are usually of lower computational power than home consoles due to their smaller size; microconsoles, which are usually low-cost Android-based devices that rely on downloading; retro style consoles; or dedicated consoles past the first generation, which have games built in and do not use any form of physical media. Consoles have been redesigned from time to time to improve their market appeal. Redesigned models are not listed on their own.
+The list omits the more than 900 home video game consoles known to have been released in the first generation of video game consoles, those that were generally game consoles for a single dedicated game, such as home Pong consoles. Documented consoles of this generation can be found at list of first generation home video game consoles.
+
+
+Released systems
+
+
+Unreleased systems
+
+
+Canceled systems
+
+
+See  also
+List of best-selling game consoles
+List of game controllers
+List of video game console emulators
+Lists of video game consoles
+List of dedicated video game consoles
+List of handheld game consoles
+List of microconsoles
+List of retro style video game consoles
+Lists of video games
+
+
+Notes
+
+
+References

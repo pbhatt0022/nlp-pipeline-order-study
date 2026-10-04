@@ -1,0 +1,15 @@
+system,type,gold,predicted_as_type,correct,precision,recall,f1
+default,DATE,8,7,7,1.0,0.875,0.933
+default,EVENT,5,0,0,0.0,0.0,0.0
+default,GPE,6,4,4,1.0,0.667,0.8
+default,MONEY,4,1,1,1.0,0.25,0.4
+default,ORG,10,13,8,0.615,0.8,0.696
+default,PERSON,8,10,7,0.7,0.875,0.778
+default,PRODUCT,10,2,2,1.0,0.2,0.333
+ruler,DATE,8,7,7,1.0,0.875,0.933
+ruler,EVENT,5,2,2,1.0,0.4,0.571
+ruler,GPE,6,4,4,1.0,0.667,0.8
+ruler,MONEY,4,1,1,1.0,0.25,0.4
+ruler,ORG,10,11,9,0.818,0.9,0.857
+ruler,PERSON,8,9,7,0.778,0.875,0.824
+ruler,PRODUCT,10,7,7,1.0,0.7,0.824

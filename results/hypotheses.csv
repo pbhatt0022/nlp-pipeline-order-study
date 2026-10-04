@@ -1,0 +1,7 @@
+hypothesis,statement,evidence,verdict
+H1,B has a smaller vocabulary and fewer tokens than A,"tokens A 176,387 / B 137,253; vocabulary A 13,165 / B 11,247",supported
+H2,B has higher macro recall than A on keyword and Boolean queries,"macro R (keyword+AND+OR+NOT, n=9) A 0.796 / B 0.796",not supported (no difference)
+H3,"A has higher macro precision than B, especially on phrase queries",macro P A 0.596 / B 0.596; phrase P A 0.738 / B 0.738,not supported (no difference)
+H4,B produces false phrase matches from position-preserving stop removal,not testable on the 12 queries; probe (8 phrases with internal stop words): false-match documents A 16 / B 28,exploratory: B produces false matches
+H5,A preserves >= 5 percentage points more domain-lexicon terms than B,preservation A 1.000 / B 0.898,supported
+H6,A has a higher meaningful-bigram rate (top 20) than B,rate A 0.30 / B 1.00,not supported

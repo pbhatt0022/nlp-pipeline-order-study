@@ -1,0 +1,8 @@
+Gold Type,total,correct_default,correct_ruler
+DATE,8,7,7
+EVENT,5,0,2
+GPE,6,4,4
+MONEY,4,1,1
+ORG,10,8,9
+PERSON,8,7,7
+PRODUCT,10,2,7

@@ -1,0 +1,134 @@
+Seventh generation of video game consoles
+The seventh generation of video game consoles were released between  November 22, 2005 and November 19, 2006. With releases such as Microsoft's Xbox 360, Sony's PlayStation 3, and the Nintendo Wii, this generation of video game consoles became an important part of the global IT infrastructure, representing an estimated 25% of the world's general-purpose computational power in 2007. 
+Each console introduced new technologies. The Xbox 360 offered games rendered natively at high-definition video (HD) resolutions, the PlayStation 3 offered HD movie playback via a built-in 3D Blu-ray disk player, and the Wii focused on integrating controllers with movement sensors as well as joysticks, enabling players to simulate real-world actions through movement during gameplay. 
+Joining Nintendo in releasing motion devices and software, Sony Computer Entertainment released the PlayStation Move in September 2010, which featured motion-sensing gaming similar to that of the Wii. In November 2010, Microsoft released Kinect for use with the Xbox 360. Kinect did not use controllers, instead using cameras to capture the player's body motion and using that to direct gameplay, effectively making the players act as the "controllers". Having sold eight million units in its first 60 days on the market, Kinect claimed the Guinness World Record of being the "fastest selling consumer electronics device". Meanwhile, the eighth generation of consoles started on November 18, 2012, with the launch of the Wii U.
+Among handheld consoles, the seventh generation began somewhat earlier than the home consoles. On November 21, 2004, saw the introduction of the Nintendo DS, and the PlayStation Portable (PSP) came out in December. The DS features a touch screen and built-in microphone, and supports wireless standards. The PSP became the first handheld video game console to use an optical disc format as its primary storage media. Sony also gave the PSP multimedia capability; connectivity with the PlayStation 3, PlayStation 2, other PSPs; as well as Internet connectivity. Despite high sales numbers for both consoles, PSP sales consistently lagged behind those of the DS.
+A crowdfunded console, the Ouya, received $8.5 million in preorders before launching in 2013. Post-launch sales were poor, and the device was a commercial failure. Additionally, microconsoles like the Nvidia Shield TV, Amazon Fire TV, Mojo, Razer Switchblade, GamePop, GameStick, and more powerful PC-based Steam Machine consoles have attempted to compete in the video game console market; however they are seldom classified as "seventh-generation" consoles.
+The seventh generation slowly began to wind down when Nintendo began cutting back on Wii production in the early 2010s. In 2014, Sony announced they were discontinuing the production of the PSP worldwide, and the release of new games for the DS eventually ceased later that year with the last third-party titles. Microsoft announced in April 2016 that they would discontinue the Xbox 360. Around that time, the remaining Wii consoles were discontinued. The following year, Sony announced that it would soon discontinue the PlayStation 3, ending the generation as all hardware was discontinued. The last Xbox 360 physical games ever were released in 2018, as FIFA 19 and Just Dance 2019.  Despite this, several more Wii games were released, including a few more annual Just Dance sequels, as well as a limited 3,000-copy print run of a physical release of Retro City Rampage DX.
+The next generation of handheld consoles began on February 26, 2011, with the release of the Nintendo 3DS.
+
+
+Home video game consoles
+
+
+Xbox 360
+
+The Xbox 360 gained an early lead in terms of market share, largely due to its established Xbox Live online gaming system, and its early launch date, which was one year before its rivals. Sales in North America and Europe continued to be strong, even after the release of the Wii and PlayStation 3. Like its predecessor, the Xbox 360 received a muted reception in Japan, attributed to the lack of content aimed at Japanese gamers, which was a key reason why its predecessor underperformed in that country. Despite its early launch date, the Xbox 360 finished in 3rd place behind its competitors.
+This early launch did come with some trouble, as technical problems appeared in a portion of Xbox 360 units sold. The most well-known problem is the "red ring of death" and Error E74, which received a great deal of attention due to some users having to replace their consoles multiple times. Microsoft attempted to address this by offering a three-year warranty on all affected consoles and repairing them free of charge. It also retroactively reimbursed owners of affected systems who paid for repairs, and ultimately made several adjustments to the console's design to improve reliability, consulting with "an established ASIC vendor".
+As they share many cross-platform games and competed for the same audience as their predecessors, frequent comparisons are made between the Xbox 360 and PlayStation 3. The PS3 uses the Blu-ray format, while the Xbox 360 uses a standard DVD9. The Xbox 360 was less expensive to produce and broke even on manufacturing costs earlier than the PS3, while industry consensus was that the Xbox 360's conventional architecture is easier to develop for.
+At the end of the first half of 2007, the console stabilized at 11.6 million units shipped as sales dropped 60% while its rival, Wii, gained momentum and Sony announced a competitive price drop on the PlayStation 3. Microsoft's strategy to boost sales with the release of the highly anticipated Halo 3 in September 2007 paid off, outselling the Wii that month in North America. Microsoft's Entertainment and Devices Division experienced a huge increase in revenue, largely driven by the release of Halo 3, and posted a quarterly profit for the first time in two years.
+The Xbox 360 focused on the release of high-profile games, such as additions to the Halo franchise. The 2007 Game Critics Awards honored the platform with 38 nominations and 12 wins – more than any other platform.  At the 2008 Game Developers Conference, Microsoft announced that it expected over 1,000 games available for Xbox 360 by the end of the year. The Xbox 360 has managed to gain a simultaneous release of titles that were initially planned to be PS3 exclusives, including Devil May Cry, Ace Combat, Virtua Fighter, Grand Theft Auto IV, Final Fantasy XIII, Tekken 6, Metal Gear Rising: Revengeance, and L.A. Noire.
+In November 2010, Microsoft released Kinect. Kinect did not use controllers, instead making the players act as the "controllers". Having sold eight million units in its first 60 days on the market, Kinect claimed the Guinness World Record of being the "fastest selling consumer electronics device". At E3 2010, Microsoft revealed a new  Xbox 360 SKU known officially as the Xbox 360 S and referred to as the "Slim" by various media outlets. At E3 2013 Microsoft revealed the Xbox 360 E, the final iteration of the Xbox 360 series, to be succeeded by Xbox One. The 360 E featured a new square design with a simplified exterior akin to the Xbox One.
+
+
+PlayStation 3
+
+Sony's PlayStation 3 was released on November 11, 2006, in Japan and November 17, 2006, in the United States and Canada. The system's reliance on new technologies such as the Cell microprocessor and Blu-ray format caused difficulties in manufacturing, especially the Blu-ray diode, leading to shortages at launch and the delay of the PAL region launches; however, by early December 2006, Sony announced that all production issues had been resolved. Market analysts and Sony executives noted that the success of the PlayStation 3 and the Blu-ray format were dependent on each other; Rich Marty, VP of New Business Development at Sony Pictures Home Entertainment stated that the "PS3 is critical to the success of Blu-ray", while Phil Harrison stated that the PlayStation 3's success would be ensured by "the growth of the Blu-ray Disc movie market".
+Sony would provide support for its console with new titles from first-party franchises such as Gran Turismo, Ratchet & Clank, and God of War, while establishing series such as LittleBigPlanet and Uncharted. Sony also secured a number of highly anticipated third-party exclusive titles, including Metal Gear Solid 4: Guns of the Patriots, Yakuza 3 and Valkyria Chronicles. Titles that were originally exclusive or recognized with the platform, such as Devil May Cry, Ace Combat, Virtua Fighter, and Monster Hunter, have been released on other platforms. The previous Grand Theft Auto titles were originally timed exclusives on the PlayStation 2, before making their release on other platforms, such as the Xbox, months later; however, Grand Theft Auto IV, the latest installment, was released simultaneously on the Xbox 360 and PlayStation 3. Titles initially announced as PlayStation 3 exclusives, such as Assassin's Creed; Bladestorm: The Hundred Years' War, and Fatal Inertia, were ultimately released on Xbox 360 as well, with the latter making its appearance on Xbox 360 before the PlayStation 3 version. Sony blamed lower-than-expected sales of the PS3 on the loss of exclusive titles in its software library, its higher price, and stock shortages.
+The high launch price of the PlayStation 3 was considered a major drag on its popularity.  In July 2007, Sony announced a drop in the price of the already-discontinued 60 GB models of the console by $100 in the United States and Canada. On October 18, 2007, Sony announced a US$100 price drop for the 80 GB model and a new US$399 40 GB model to launch on November 2, 2007, with reduced features such as the removal of backward compatibility with PS2 games. Within weeks, Sony announced that sales of the 40 GB and 80 GB models by major retailers had increased 192%. In November 2008, Sony launched a 160 GB model, and on August 18, 2009, Sony announced the PS3 Slim. The PS3 slim sold 1 million in under a month. It was then announced that a 250 GB slim model was to be released. It was released on September 1 (or 3 depending on country).
+In September 2012, Sony announced a new slimmer PS3 redesign (CECH-4000), commonly referred to as the "Super Slim" PS3. It was released in late 2012, available with either a 250 GB or 500 GB hard drive. The "Super Slim" model was the last model to be produced by Sony before the system was slowly discontinued around the world. Shipments of new units to the United States were terminated in October 2016 and Sony officially discontinued the system in Japan on May 29, 2017, the last territory where it was selling new units up until then.
+
+
+Wii
+
+Nintendo entered the generation with a new approach embodied by its Wii. The company planned to attract current hardcore and casual gamers, non-gamers, and lapsed gamers by focusing on new gameplay experiences and new forms of interaction with games rather than cutting edge graphics and expensive technology. This approach was previously implemented in the portable market with the Nintendo DS. Nintendo expressed hope that the new control schemes it had implemented would render conventionally controlled consoles obsolete, leading to Nintendo capturing a large portion of the existing market as well. This strategy paid off, with demand for the Wii outstripping supply throughout 2007. Since Nintendo profited on each console right from the start unlike its competitors, it  achieved very positive returns. With only a few exceptions, monthly worldwide sales for the Wii were higher than those of the Xbox 360 and PlayStation 3, eroding Microsoft's early lead and widening the gap between its market share and Sony's. In 2007, it was reported by the British newspaper Financial Times that the Wii's sales surpassed those of the Xbox 360, which had been released one year previously, and became the market leader in worldwide home console sales for the generation.
+As in previous generations, Nintendo provided support for its new console with first-party franchises like Mario, The Legend of Zelda, Metroid, and Pokémon. To appeal to casual and non-gamers, Nintendo developed a group of core Wii games, consisting of Wii Sports, Wii Play, Wii Fit, and Wii Music, where players make use of the motion-sensing abilities of the console and its peripherals to simulate real world activities.
+Publishers such as Ubisoft, Electronic Arts, Capcom, and Majesco continued to release exclusive titles for the console, but the Wii's strongest titles remained within its first-party line-up. Analysts speculated that this would change in time as the Wii's growing popularity persuaded third-party publishers to focus on it; however, some third-party developers expressed frustration at low software sales. Goichi Suda, developer of No More Heroes for the Wii, noted that "only Nintendo titles are doing well" and that he "expected more games for hardcore gamers". Conversely, the PAL publisher of No More Heroes Rising Star Games were greatly impressed with the game's sales. Goichi Suda later retracted his comment, saying his "point was that No More Heroes, unlike a lot of Nintendo Wii titles currently available is the kind of product that will attract a different kind of consumer to the hardware".
+In early 2008, the NPD Group revealed sales data showing that, while the Wii's life-to-date attach rate was low, in December 2007, it reached 8.11 – higher than the attach rates for the Xbox 360 and PlayStation 3 in that month. The Wii's low overall attach rate could be explained by reference to its rapidly increasing installed base, as financial analysts have pointed to the Xbox 360's high attach rates as indicative of an unhealthy lack of installed base growth, and warned that what actually benefits third-party developers is "quicker adoption of hardware and a rapidly growing installed base on which to sell progressively more game units", which tends to lower the attach rate of a product.
+
+
+Comparison
+
+^a Game packages not listed. Bundles, special editions and limited editions may include additional or exchanged items.
+^b There is a variety of other input devices available for all three consoles, including rhythm game controllers, microphones and third-part gamepads/controllers.
+^c All consoles are capable of producing 3D images using anaglyph or frame-compatible systems (side-by-side/SbS, top and bottom/TaB), as these do not require any special output hardware. As such, these display modes are dependent on the software being displayed rather than the console.
+^dFacebook and Twitter apps for Xbox 360 were retired in October 2012.
+
+
+Sales standings
+
+Worldwide figures are based on data from the manufacturers. The Canada and the United States figures are based on data from the NPD Group, the Japan figures are based on data from Famitsu/Enterbrain, and the United Kingdom figures are based on data from GfK Chart-Track.
+
+
+Discontinuations and revisions
+The PlayStation 3 20 GB was discontinued in North America in April 2007 and effectively discontinued in Japan in early 2008.
+The PlayStation 3 60 GB was discontinued in NTSC territories by September 2007, and replaced with the 80 GB version.
+The PlayStation 3 60 GB was effectively discontinued for PAL territories in late 2007. When the remaining stock in stores was sold, the 40 GB version served as its replacement.
+Sony announced before the PS3 launch in Europe that the PlayStation 2's Emotion Engine CPU would be removed from it for cost savings, and all backward compatibility would be software-based. This is also the same for the 80 GB model launched in the North American market in 2007.
+An HDMI out port was added to the Premium Xbox 360 in May 2007.
+The Xbox 360 Core system was discontinued and replaced by the "Arcade" version in October 2007.
+The price of the Xbox 360 Premium version was dropped to US$299 in North America on July 13, 2008. Supplies of the existing 20 GB model were exhausted by early August and it was replaced by an identical model with a 60 GB HDD at a MSRP of US$349.
+The PlayStation 3 40 GB was discontinued in all territories in early August 2008 and the new 80 GB version served as its replacement.
+The Xbox 360 Arcade 256 MB internal memory SKU was discontinued in all territories in early 2009 and a new 512 MB internal memory SKU still named the Xbox 360 Arcade was released.
+The PlayStation 3 Slim was introduced on August 18, 2009. At US$299, it is US$100 cheaper than the previous model; it is also approximately 1⁄3 lighter and more energy efficient. The two original PS3 Slim models, priced at US$299.99 and US$349.99 respectively, hold 120/250 GB. These were then superseded by 160 GB and 320 GB models, which are priced at US$249.99 and US$299.99 respectively.
+The black Wii console was released in Japan on August 1, 2009 and in Europe in November 2009.
+The Wii package for North America has been updated to include a copy of Wii Sports Resort as well as the required Wii MotionPlus accessory to play it, beginning May 9, 2010. The console is also available in black.
+A special edition red Wii console was released in honor of Super Mario Bros. 25th Anniversary.
+The Xbox 360 S was announced at E3 2010 by Microsoft. It is a smaller revision of the Xbox 360 hardware, which includes either a built-in 250 GB hard drive or 4 GB of Flash storage, 802.11n Wi-Fi, a TOSLINK connector, 5 USB ports and an AUX connector for the Kinect sensor device.
+The Wii Family Edition was released on October 23, 2011. It drops support for GameCube games and accessories, and is designed to sit horizontally.
+The PlayStation 3 Super Slim was released on September 25, 2012. It has manual sliding disc cover instead of a motorized loading slot disc cover.
+The Wii Mini was released on December 7, 2012. It has a top-loading disc drive instead of a motorized loading slot disc drive and drops Wi-Fi support, online connectivity and the SD card slot.
+The Xbox 360 E was revealed and released at E3 2013 on June 10, 2013. It featured a new slimmer design, that was quieter than previous models.
+
+
+Backward compatibility
+Early models of the Wii are fully backward compatible with GameCube software and most of its accessories; the Wii Family Edition and the Wii Mini iterations lack GameCube support. Early models of the PlayStation 3 and all models of the Xbox 360 only offer partial support and use software emulation for backward compatibility. Later models of the PS3 do not offer PlayStation 2 compatibility, though PS1 compatibility is retained. Some models of the first generation of the PS3 offered full backward compatibility for PS2 games. The Xbox 360's compatibility is increased through game-specific patches automatically downloaded from Xbox Live or downloaded and burned to a CD or DVD from the Xbox website and the PS3's compatibility is expanded with firmware updates.
+All three consoles provide titles from older consoles for download; the Xbox 360 through the Xbox Originals service, the PlayStation 3 through the PlayStation Store, and the Wii through the Virtual Console. When purchased, the game is saved to console's internal memory or, optionally on the Wii, to an inserted SD/SDHC card. Initially the Xbox 360 also provided Xbox Live support for backward compatible games, but the service has since been discontinued for original Xbox games. No more games will be added to the list of backward compatible games for the Xbox 360. In response to the lack of backward compatibility for most PS3s, many popular games have been released for download as PlayStation 2 Classics and other popular series have been updated with gameplay/graphics as high-definition remasters for PlayStation consoles and have been released on Blu-ray Disc or are available for download on the PlayStation Network.
+
+
+HDTV-capable video support and service
+Both the PlayStation 3 and the Xbox 360 support 1080p high definition video output. However, the output signal may be protected by digital rights management and may require an HDCP-compliant display if HDMI is used. The Xbox Live Marketplace service and the PlayStation Store offer HD movies, TV shows, movie trailers, and clips for download to the console's HDD. Other regional PlayStation Stores only allow download of movie trailers and short segment clips. As of November 2009, the Video Download service present on the American PlayStation Store will be available for select European countries.
+While only a small number of games render video in native 1080p, many games can be automatically scaled to output this resolution. The Wii is capable of outputting 480p for the Wii Menu and most games through a component cable, which must be purchased separately.
+
+
+Reliability
+In the September 2009 issue of Game Informer magazine, survey results were published in which among nearly 5000 readers who responded, 54.2% of those who owned an Xbox 360 had experienced a console failure for that system, compared with 10.6% for PlayStation 3, and 6.8% for Wii.
+In August 2009, warranty provider SquareTrade published console failure rate estimates, in which the proportion of its customers reporting a system failure in the first two years is 23.7% for Xbox 360, 10.0% for PlayStation 3, and 2.7% for Wii.
+
+
+Other consoles
+There were also other consoles released during the seventh generation time period. Generally, they are either niche products or less powerful.
+
+
+Handheld systems
+
+For video game handhelds, the seventh generation began with the release of the Nintendo DS on November 21, 2004. This handheld was based on a design fundamentally different from the Game Boy and other handheld video game systems. The Nintendo DS offered new modes of input over previous generations such as a touch screen, the ability to connect wirelessly using IEEE 802.11b, as well as a microphone to speak to in-game NPCs. On December 12, 2004, Sony released its first handheld, PlayStation Portable. The PlayStation Portable was marketed at launch to an above-25-year-old or "core gamer" market, while the Nintendo DS proved to be popular with both core gamers and new customers.
+Nokia revived its N-Gage platform in the form of a service for selected S60 devices. This new service launched on April 3, 2008. Other less-popular handheld systems released during this generation include the Gizmondo (launched on March 19, 2005, and discontinued in February 2006) and the GP2X (launched on November 10, 2005, and discontinued in August 2008). The GP2X Wiz, Pandora, and Gizmondo 2 were scheduled for release in 2009.
+Another aspect of the seventh generation was the beginning of direct competition between dedicated handheld gaming devices, and increasingly powerful PDA/cell phone devices such as the iPhone and iPod Touch, and the latter being aggressively marketed for gaming purposes. Simple games such as Tetris and Solitaire had existed for PDA devices since their introduction, but by 2009 PDAs and phones had grown sufficiently powerful to where complex graphical games could be implemented, with the advantage of distribution over wireless broadband.
+Sony announced in 2014 that they had discontinued the production of the PlayStation Portable worldwide.
+
+
+Handheld game console comparison
+
+Note: First year of release is the first year of the system's worldwide availability.
+
+
+Other handhelds
+
+
+Software
+
+
+Milestone titles
+
+The Call of Duty series by Activision (individual games by Treyarch and Infinity Ward) was immensely popular during the seventh generation, with the franchise popularizing online multiplayer on consoles along with its cinematic single-player campaigns.
+Dark Souls (PS3, 360, PC) by FromSoftware was one of the most influential games of its generation, receiving acclaim for its combat, atmosphere, and level design. It also proved that the Japanese game industry was still competitive at a time when Western games were generally considered superior.
+Halo 3 (360) by Bungie and Microsoft Studios was immediately met with critical acclaim, and was the top selling video game of 2007.
+LittleBigPlanet and its sequel (PS3) by Media Molecule popularized user-generated content on consoles, and were additionally praised for their unique hand-made aesthetic.
+Minecraft (PC, 360, PS3, mobile) by Mojang Studios was critically acclaimed for the level of freedom it provided to players, and was also one of the first games to spread by word-of-mouth on social media.
+Grand Theft Auto IV, Red Dead Redemption and Grand Theft Auto V (PS3, Xbox 360, PC) by Rockstar Games were critically acclaimed for their story mode and expanded open world thanks to new graphics systems.
+God of War III (PS3, PS4) by Santa Monica Studio was acclaimed by critics and fans who claimed it was a perfect ending to a saga.
+Super Meat Boy (PS3, Xbox 360, PC) by Team Meat was highly acclaimed marking its name as a first indie game success.
+Super Mario Galaxy (Wii) by Nintendo became the third best-selling non-bundled Wii game on the console and became a critical and commercial darling upon its release in 2007.
+
+
+See also
+
+2000s in video games
+List of video game consoles
+
+
+Notes
+
+
+References

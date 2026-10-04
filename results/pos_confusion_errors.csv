@@ -1,0 +1,15 @@
+tagger,gold_tag,predicted_tag,count
+nltk_default,NNP,NN,1
+nltk_default,NNP,JJ,1
+nltk_default,RB,NN,1
+nltk_default,NNS,NNP,1
+rule_custom,NNP,NN,1
+rule_custom,RB,NN,1
+rule_custom,NNS,NNP,1
+spacy_default,TO,IN,3
+spacy_default,NNP,NN,2
+spacy_default,NNP,NNPS,2
+spacy_default,CD,JJ,1
+spacy_default,JJ,RB,1
+spacy_default,NN,JJ,1
+spacy_default,VBG,NN,1

@@ -1,0 +1,52 @@
+Word	Entity_Type
+Shigeru Miyamoto	PERSON
+Takashi Tezuka	PERSON
+Toby Gard	PERSON
+Koji Kondo	PERSON
+Yuji Naka	PERSON
+Naoto Ohshima	PERSON
+Hirokazu Yasuhara	PERSON
+Anna Anthropy	PERSON
+Nintendo	ORG
+Sony	ORG
+Microsoft	ORG
+Sega	ORG
+Creative Assembly	ORG
+Viridis Corporation	ORG
+Crystal Dynamics	ORG
+Core Design	ORG
+Valve	ORG
+Square Enix	ORG
+Japan	GPE
+North America	GPE
+Australia	GPE
+Kyoto	GPE
+United States	GPE
+Europe	GPE
+November 22, 2005	DATE
+November 19, 2006	DATE
+1991	DATE
+2000	DATE
+July 15, 1983	DATE
+September 2010	DATE
+1990s	DATE
+1997	DATE
+$8.5 million	MONEY
+299 dollars	MONEY
+50 dollars	MONEY
+499 US dollars	MONEY
+Xbox 360	PRODUCT
+PlayStation 3	PRODUCT
+Nintendo Wii	PRODUCT
+Game Boy	PRODUCT
+Kinect	PRODUCT
+Ouya	PRODUCT
+Super Nintendo Entertainment System	PRODUCT
+Nintendo DS	PRODUCT
+PlayStation Portable	PRODUCT
+Halo Wars	PRODUCT
+AM Show	EVENT
+AMOA show	EVENT
+E3	EVENT
+SIGGRAPH	EVENT
+Electronic Entertainment Expo	EVENT

@@ -1,0 +1,10 @@
+statistic,value
+Number of documents,53
+Number of sentences,9305
+"Number of tokens (hybrid, incl. punctuation)",251482
+Number of word tokens (no punctuation),221806
+Number of characters,1362150
+Vocabulary size (case-folded word types),16030
+Average document length (tokens),4744.9
+Average document length (characters),25700.9
+Shortest / longest document (tokens),466 / 14000

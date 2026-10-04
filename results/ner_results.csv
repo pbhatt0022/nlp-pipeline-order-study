@@ -1,0 +1,52 @@
+Entity,Gold Type,Predicted Type,Correct?,status_default,Predicted Type (ruler),status_ruler
+Shigeru Miyamoto,PERSON,PERSON,True,correct,PERSON,correct
+Takashi Tezuka,PERSON,PERSON,True,correct,PERSON,correct
+Toby Gard,PERSON,PERSON,True,correct,PERSON,correct
+Koji Kondo,PERSON,PERSON,True,correct,PERSON,correct
+Yuji Naka,PERSON,PERSON,True,correct,PERSON,correct
+Naoto Ohshima,PERSON,PERSON,True,correct,PERSON,correct
+Hirokazu Yasuhara,PERSON,ORG,False,incorrect,ORG,incorrect
+Anna Anthropy,PERSON,PERSON,True,correct,PERSON,correct
+Nintendo,ORG,ORG,True,correct,ORG,correct
+Sony,ORG,ORG,True,correct,ORG,correct
+Microsoft,ORG,ORG,True,correct,ORG,correct
+Sega,ORG,ORG,True,correct,ORG,correct
+Creative Assembly,ORG,ORG,True,correct,ORG,correct
+Viridis Corporation,ORG,PERSON,False,incorrect,PERSON,incorrect
+Crystal Dynamics,ORG,ORG,True,correct,ORG,correct
+Core Design,ORG,ORG,True,correct,ORG,correct
+Valve,ORG,NORP,False,incorrect,ORG,correct
+Square Enix,ORG,ORG,True,correct,ORG,correct
+Japan,GPE,GPE,True,correct,GPE,correct
+North America,GPE,LOC,False,incorrect,LOC,incorrect
+Australia,GPE,GPE,True,correct,GPE,correct
+Kyoto,GPE,GPE,True,correct,GPE,correct
+United States,GPE,GPE,True,correct,GPE,correct
+Europe,GPE,LOC,False,incorrect,LOC,incorrect
+"November 22, 2005",DATE,MISSING,False,missed,MISSING,missed
+"November 19, 2006",DATE,DATE,True,correct,DATE,correct
+1991,DATE,DATE,True,correct,DATE,correct
+2000,DATE,DATE,True,correct,DATE,correct
+"July 15, 1983",DATE,DATE,True,correct,DATE,correct
+September 2010,DATE,DATE,True,correct,DATE,correct
+1990s,DATE,DATE,True,correct,DATE,correct
+1997,DATE,DATE,True,correct,DATE,correct
+$8.5 million,MONEY,MONEY,True,correct,MONEY,correct
+299 dollars,MONEY,MISSING,False,missed,MISSING,missed
+50 dollars,MONEY,MISSING,False,missed,MISSING,missed
+499 US dollars,MONEY,MISSING,False,missed,MISSING,missed
+Xbox 360,PRODUCT,ORG,False,incorrect,PRODUCT,correct
+PlayStation 3,PRODUCT,PRODUCT,True,correct,PRODUCT,correct
+Nintendo Wii,PRODUCT,PERSON,False,incorrect,MISSING,missed
+Game Boy,PRODUCT,FAC,False,incorrect,PRODUCT,correct
+Kinect,PRODUCT,ORG,False,incorrect,ORG,incorrect
+Ouya,PRODUCT,PERSON,False,incorrect,PERSON,incorrect
+Super Nintendo Entertainment System,PRODUCT,ORG,False,incorrect,PRODUCT,correct
+Nintendo DS,PRODUCT,MISSING,False,missed,PRODUCT,correct
+PlayStation Portable,PRODUCT,PRODUCT,True,correct,PRODUCT,correct
+Halo Wars,PRODUCT,FAC,False,incorrect,PRODUCT,correct
+AM Show,EVENT,MISSING,False,missed,MISSING,missed
+AMOA show,EVENT,MISSING,False,missed,MISSING,missed
+E3,EVENT,ORG,False,incorrect,EVENT,correct
+SIGGRAPH,EVENT,MISSING,False,missed,MISSING,missed
+Electronic Entertainment Expo,EVENT,MISSING,False,missed,EVENT,correct

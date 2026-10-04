@@ -1,0 +1,131 @@
+pipeline,our_qid,query,error,doc_id,title
+A,Q01,Total War,FN,D41,Sakura Wars (1996 video game)
+A,Q02,"Sonic AND ""Sega Genesis""",FP,D42,Educational games in the Sonic the Hedgehog series
+A,Q03,Nintendo AND PlayStation,FN,D05,History of the Nintendo Entertainment System
+A,Q03,Nintendo AND PlayStation,FP,D06,The Legend of Zelda: A Link to the Past
+A,Q03,Nintendo AND PlayStation,FP,D07,The Legend of Zelda: Majora's Mask
+A,Q03,Nintendo AND PlayStation,FP,D10,Nintendo Entertainment System
+A,Q03,Nintendo AND PlayStation,FP,D17,Third-person shooter
+A,Q03,Nintendo AND PlayStation,FP,D19,Sonic Team
+A,Q03,Nintendo AND PlayStation,FP,D20,List of home video game consoles
+A,Q03,Nintendo AND PlayStation,FP,D26,Cloud Strife
+A,Q03,Nintendo AND PlayStation,FP,D27,Sonic the Hedgehog
+A,Q03,Nintendo AND PlayStation,FP,D28,Tomb Raider (2013 video game)
+A,Q03,Nintendo AND PlayStation,FP,D30,Sonic the Hedgehog (1991 video game)
+A,Q03,Nintendo AND PlayStation,FP,D32,Tomb Raider
+A,Q03,Nintendo AND PlayStation,FP,D35,Pre-rendering
+A,Q03,Nintendo AND PlayStation,FP,D41,Sakura Wars (1996 video game)
+A,Q03,Nintendo AND PlayStation,FP,D44,Tomb Raider: Anniversary
+A,Q03,Nintendo AND PlayStation,FP,D48,Video game development
+A,Q03,Nintendo AND PlayStation,FP,D52,Guitar Hero
+A,Q04,"""Ash Ketchum"" AND NOT Japanese",FN,D37,Ash Ketchum
+A,Q04,"""Ash Ketchum"" AND NOT Japanese",FN,D50,Pokemon: Advanced
+A,Q04,"""Ash Ketchum"" AND NOT Japanese",FP,D34,Davide Garbolino
+A,Q05,Metroid,FP,D01,Seventh generation of video game consoles
+A,Q05,Metroid,FP,D05,History of the Nintendo Entertainment System
+A,Q05,Metroid,FP,D06,The Legend of Zelda: A Link to the Past
+A,Q05,Metroid,FP,D08,Nintendo video game consoles
+A,Q05,Metroid,FP,D10,Nintendo Entertainment System
+A,Q05,Metroid,FP,D17,Third-person shooter
+A,Q05,Metroid,FP,D25,Super Nintendo Entertainment System
+A,Q05,Metroid,FP,D51,History of Nintendo
+A,Q06,Zelda AND (theme OR song),FP,D01,Seventh generation of video game consoles
+A,Q06,Zelda AND (theme OR song),FP,D05,History of the Nintendo Entertainment System
+A,Q06,Zelda AND (theme OR song),FP,D08,Nintendo video game consoles
+A,Q06,Zelda AND (theme OR song),FP,D09,Metroid
+A,Q06,Zelda AND (theme OR song),FP,D10,Nintendo Entertainment System
+A,Q06,Zelda AND (theme OR song),FP,D13,The Legend of Zelda: Spirit Tracks
+A,Q06,Zelda AND (theme OR song),FP,D25,Super Nintendo Entertainment System
+A,Q06,Zelda AND (theme OR song),FP,D51,History of Nintendo
+A,Q07,"""Tomb Raider""",FP,D15,PlayStation (console)
+A,Q07,"""Tomb Raider""",FP,D29,Galleon (video game)
+A,Q10,"shooter AND NOT ""first person""",FN,D11,Early history of video games
+A,Q10,"shooter AND NOT ""first person""",FN,D17,Third-person shooter
+A,Q10,"shooter AND NOT ""first person""",FP,D20,List of home video game consoles
+A,Q10,"shooter AND NOT ""first person""",FP,D27,Sonic the Hedgehog
+A,Q10,"shooter AND NOT ""first person""",FP,D31,The Legend of Zelda
+A,Q10,"shooter AND NOT ""first person""",FP,D48,Video game development
+A,Q11,"""first video game""",FN,D20,List of home video game consoles
+A,Q11,"""first video game""",FN,D51,History of Nintendo
+A,Q11,"""first video game""",FP,D09,Metroid
+A,Q11,"""first video game""",FP,D27,Sonic the Hedgehog
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FN,D48,Video game development
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D03,Zelda's Adventure
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D06,The Legend of Zelda: A Link to the Past
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D09,Metroid
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D12,Koji Kondo
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D15,PlayStation (console)
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D19,Sonic Team
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D27,Sonic the Hedgehog
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D30,Sonic the Hedgehog (1991 video game)
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D31,The Legend of Zelda
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D35,Pre-rendering
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D36,Link: The Faces of Evil and Zelda: The Wand of Gamelon
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D46,Ridley (Metroid)
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D49,The Legend of Zelda CD-i games
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D51,History of Nintendo
+B,Q01,Total War,FN,D41,Sakura Wars (1996 video game)
+B,Q02,"Sonic AND ""Sega Genesis""",FP,D42,Educational games in the Sonic the Hedgehog series
+B,Q03,Nintendo AND PlayStation,FN,D05,History of the Nintendo Entertainment System
+B,Q03,Nintendo AND PlayStation,FP,D06,The Legend of Zelda: A Link to the Past
+B,Q03,Nintendo AND PlayStation,FP,D07,The Legend of Zelda: Majora's Mask
+B,Q03,Nintendo AND PlayStation,FP,D10,Nintendo Entertainment System
+B,Q03,Nintendo AND PlayStation,FP,D17,Third-person shooter
+B,Q03,Nintendo AND PlayStation,FP,D19,Sonic Team
+B,Q03,Nintendo AND PlayStation,FP,D20,List of home video game consoles
+B,Q03,Nintendo AND PlayStation,FP,D26,Cloud Strife
+B,Q03,Nintendo AND PlayStation,FP,D27,Sonic the Hedgehog
+B,Q03,Nintendo AND PlayStation,FP,D28,Tomb Raider (2013 video game)
+B,Q03,Nintendo AND PlayStation,FP,D30,Sonic the Hedgehog (1991 video game)
+B,Q03,Nintendo AND PlayStation,FP,D32,Tomb Raider
+B,Q03,Nintendo AND PlayStation,FP,D35,Pre-rendering
+B,Q03,Nintendo AND PlayStation,FP,D41,Sakura Wars (1996 video game)
+B,Q03,Nintendo AND PlayStation,FP,D44,Tomb Raider: Anniversary
+B,Q03,Nintendo AND PlayStation,FP,D48,Video game development
+B,Q03,Nintendo AND PlayStation,FP,D52,Guitar Hero
+B,Q04,"""Ash Ketchum"" AND NOT Japanese",FN,D37,Ash Ketchum
+B,Q04,"""Ash Ketchum"" AND NOT Japanese",FN,D50,Pokemon: Advanced
+B,Q04,"""Ash Ketchum"" AND NOT Japanese",FP,D34,Davide Garbolino
+B,Q05,Metroid,FP,D01,Seventh generation of video game consoles
+B,Q05,Metroid,FP,D05,History of the Nintendo Entertainment System
+B,Q05,Metroid,FP,D06,The Legend of Zelda: A Link to the Past
+B,Q05,Metroid,FP,D08,Nintendo video game consoles
+B,Q05,Metroid,FP,D10,Nintendo Entertainment System
+B,Q05,Metroid,FP,D17,Third-person shooter
+B,Q05,Metroid,FP,D25,Super Nintendo Entertainment System
+B,Q05,Metroid,FP,D51,History of Nintendo
+B,Q06,Zelda AND (theme OR song),FP,D01,Seventh generation of video game consoles
+B,Q06,Zelda AND (theme OR song),FP,D05,History of the Nintendo Entertainment System
+B,Q06,Zelda AND (theme OR song),FP,D08,Nintendo video game consoles
+B,Q06,Zelda AND (theme OR song),FP,D09,Metroid
+B,Q06,Zelda AND (theme OR song),FP,D10,Nintendo Entertainment System
+B,Q06,Zelda AND (theme OR song),FP,D13,The Legend of Zelda: Spirit Tracks
+B,Q06,Zelda AND (theme OR song),FP,D25,Super Nintendo Entertainment System
+B,Q06,Zelda AND (theme OR song),FP,D51,History of Nintendo
+B,Q07,"""Tomb Raider""",FP,D15,PlayStation (console)
+B,Q07,"""Tomb Raider""",FP,D29,Galleon (video game)
+B,Q10,"shooter AND NOT ""first person""",FN,D11,Early history of video games
+B,Q10,"shooter AND NOT ""first person""",FN,D17,Third-person shooter
+B,Q10,"shooter AND NOT ""first person""",FP,D20,List of home video game consoles
+B,Q10,"shooter AND NOT ""first person""",FP,D27,Sonic the Hedgehog
+B,Q10,"shooter AND NOT ""first person""",FP,D31,The Legend of Zelda
+B,Q10,"shooter AND NOT ""first person""",FP,D48,Video game development
+B,Q11,"""first video game""",FN,D20,List of home video game consoles
+B,Q11,"""first video game""",FN,D51,History of Nintendo
+B,Q11,"""first video game""",FP,D09,Metroid
+B,Q11,"""first video game""",FP,D27,Sonic the Hedgehog
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FN,D48,Video game development
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D03,Zelda's Adventure
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D06,The Legend of Zelda: A Link to the Past
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D09,Metroid
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D12,Koji Kondo
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D15,PlayStation (console)
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D19,Sonic Team
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D27,Sonic the Hedgehog
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D30,Sonic the Hedgehog (1991 video game)
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D31,The Legend of Zelda
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D35,Pre-rendering
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D36,Link: The Faces of Evil and Zelda: The Wand of Gamelon
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D46,Ridley (Metroid)
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D49,The Legend of Zelda CD-i games
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D51,History of Nintendo

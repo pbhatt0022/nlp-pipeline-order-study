@@ -1,0 +1,25 @@
+pipeline,our_qid,Query Type,Query,Retrieved Documents,# Results,Time (warm ms),Time (cold ms)
+A,Q01,"Bigram (MWE), keyword",Total War,D47 D23 D02,3,2.35,3.42
+A,Q02,Boolean AND,"Sonic AND ""Sega Genesis""",D14 D40 D19 D42 D30 D27,6,5.21,3.75
+A,Q03,Boolean AND,Nintendo AND PlayStation,D49 D20 D01 D03 D15 D08 D36 D35 D17 D30 D25 D32 D52 D44 D48 D51 D07 D26 D28 D27 D10 D06 D19 D41,24,5.5,7.55
+A,Q04,Boolean NOT,"""Ash Ketchum"" AND NOT Japanese",D45 D34,2,3.92,2.66
+A,Q05,"Unigram, keyword",Metroid,D46 D09 D21 D17 D08 D51 D01 D25 D06 D05 D10,11,2.12,2.8
+A,Q06,Boolean OR,Zelda AND (theme OR song),D49 D03 D13 D53 D06 D07 D36 D31 D51 D12 D25 D10 D09 D08 D01 D05,16,6.81,7.32
+A,Q07,"Bigram (MWE), phrase","""Tomb Raider""",D04 D29 D44 D32 D28 D17 D15,7,2.27,1.64
+A,Q08,Boolean AND,"Cloud AND ""Kingdom Hearts""",D26 D16,2,4.45,4.35
+A,Q09,"Trigram (MWE), phrase","""Guitar Hero Live""",D39 D38 D22 D52,4,1.67,2.06
+A,Q10,Boolean NOT,"shooter AND NOT ""first person""",D20 D35 D48 D31 D27,5,3.6,3.0
+A,Q11,"Trigram, phrase","""first video game""",D09 D11 D48 D27,4,1.45,1.65
+A,Q12,Boolean OR,"SNES OR ""Super Nintendo Entertainment System""",D33 D25 D06 D20 D49 D08 D35 D03 D12 D46 D09 D05 D36 D15 D19 D30 D10 D51 D31 D27,20,4.11,6.36
+B,Q01,"Bigram (MWE), keyword",Total War,D47 D23 D02,3,1.89,3.33
+B,Q02,Boolean AND,"Sonic AND ""Sega Genesis""",D14 D40 D19 D42 D30 D27,6,3.86,4.91
+B,Q03,Boolean AND,Nintendo AND PlayStation,D49 D20 D01 D03 D15 D36 D08 D35 D17 D30 D32 D25 D52 D44 D48 D51 D07 D26 D28 D27 D10 D06 D19 D41,24,4.2,3.67
+B,Q04,Boolean NOT,"""Ash Ketchum"" AND NOT Japanese",D45 D34,2,3.61,2.83
+B,Q05,"Unigram, keyword",Metroid,D46 D09 D21 D17 D08 D51 D01 D06 D25 D05 D10,11,2.05,2.53
+B,Q06,Boolean OR,Zelda AND (theme OR song),D49 D03 D13 D53 D06 D07 D36 D31 D51 D12 D25 D10 D09 D08 D01 D05,16,5.48,5.3
+B,Q07,"Bigram (MWE), phrase","""Tomb Raider""",D04 D29 D44 D32 D28 D17 D15,7,2.28,1.62
+B,Q08,Boolean AND,"Cloud AND ""Kingdom Hearts""",D26 D16,2,4.41,3.58
+B,Q09,"Trigram (MWE), phrase","""Guitar Hero Live""",D39 D38 D22 D52,4,1.6,2.0
+B,Q10,Boolean NOT,"shooter AND NOT ""first person""",D20 D35 D48 D31 D27,5,3.76,3.04
+B,Q11,"Trigram, phrase","""first video game""",D09 D11 D48 D27,4,1.63,2.1
+B,Q12,Boolean OR,"SNES OR ""Super Nintendo Entertainment System""",D33 D25 D06 D20 D49 D08 D35 D03 D12 D46 D09 D05 D36 D15 D19 D30 D10 D51 D31 D27,20,4.21,5.82

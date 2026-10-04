@@ -1,0 +1,21 @@
+pipeline,n,n_gram,rank,gram,count,frequency,meaningful
+A,2,bigram,1,video game,516,0.00293,True
+A,2,bigram,2,it be,453,0.00257,False
+A,2,bigram,3,be release,390,0.00221,False
+A,2,bigram,4,such as,349,0.00198,False
+A,2,bigram,5,game be,341,0.00193,False
+A,2,bigram,6,game 's,244,0.00138,True
+A,2,bigram,7,have be,237,0.00134,False
+A,2,bigram,8,nintendo 's,178,0.00101,True
+A,2,bigram,9,base on,174,0.00099,False
+A,2,bigram,10,he be,157,0.00089,False
+B,2,bigram,1,video game,536,0.00391,True
+B,2,bigram,2,game 's,252,0.00184,True
+B,2,bigram,3,nintendo 's,182,0.00133,True
+B,2,bigram,4,game develop,147,0.00107,True
+B,2,bigram,5,sonic team,145,0.00106,True
+B,2,bigram,6,north america,139,0.00101,True
+B,2,bigram,7,game consol,131,0.00095,True
+B,2,bigram,8,sonic game,104,0.00076,True
+B,2,bigram,9,game releas,89,0.00065,True
+B,2,bigram,10,ocarina time,87,0.00063,True

@@ -1,0 +1,14 @@
+final,pipeline,our_qid,query,type,ngram_class,n_retrieved,n_relevant,TP,P,R,F1,P@5,P@10,R@5,R@10,cold_ms,warm_ms,retrieved_top10
+Final (Pipeline A),A,Q01,Total War,keyword,bigram (MWE),3.0,4.0,3.0,1.0,0.75,0.857,0.6,0.3,0.75,0.75,3.417,2.352,D47 D23 D02
+Final (Pipeline A),A,Q02,"Sonic AND ""Sega Genesis""",and,boolean,6.0,5.0,5.0,0.833,1.0,0.909,0.8,0.5,0.8,1.0,3.747,5.206,D14 D40 D19 D42 D30 D27
+Final (Pipeline A),A,Q03,Nintendo AND PlayStation,and,boolean,24.0,9.0,8.0,0.333,0.889,0.485,0.8,0.6,0.444,0.667,7.551,5.504,D49 D20 D01 D03 D15 D08 D36 D35 D17 D30
+Final (Pipeline A),A,Q04,"""Ash Ketchum"" AND NOT Japanese",not,boolean,2.0,3.0,1.0,0.5,0.333,0.4,0.2,0.1,0.333,0.333,2.661,3.919,D45 D34
+Final (Pipeline A),A,Q05,Metroid,keyword,unigram,11.0,3.0,3.0,0.273,1.0,0.429,0.6,0.3,1.0,1.0,2.797,2.118,D46 D09 D21 D17 D08 D51 D01 D25 D06 D05
+Final (Pipeline A),A,Q06,Zelda AND (theme OR song),or,boolean,16.0,8.0,8.0,0.5,1.0,0.667,0.8,0.8,0.5,1.0,7.316,6.807,D49 D03 D13 D53 D06 D07 D36 D31 D51 D12
+Final (Pipeline A),A,Q07,"""Tomb Raider""",phrase,bigram (MWE),7.0,5.0,5.0,0.714,1.0,0.833,0.8,0.5,0.8,1.0,1.636,2.271,D04 D29 D44 D32 D28 D17 D15
+Final (Pipeline A),A,Q08,"Cloud AND ""Kingdom Hearts""",and,boolean,2.0,2.0,2.0,1.0,1.0,1.0,0.4,0.2,1.0,1.0,4.346,4.446,D26 D16
+Final (Pipeline A),A,Q09,"""Guitar Hero Live""",phrase,trigram (MWE),4.0,4.0,4.0,1.0,1.0,1.0,0.8,0.4,1.0,1.0,2.056,1.674,D39 D38 D22 D52
+Final (Pipeline A),A,Q10,"shooter AND NOT ""first person""",not,boolean,5.0,3.0,1.0,0.2,0.333,0.25,0.2,0.1,0.333,0.333,3.004,3.602,D20 D35 D48 D31 D27
+Final (Pipeline A),A,Q11,"""first video game""",phrase,trigram,4.0,4.0,2.0,0.5,0.5,0.5,0.4,0.2,0.5,0.5,1.652,1.45,D09 D11 D48 D27
+Final (Pipeline A),A,Q12,"SNES OR ""Super Nintendo Entertainment System""",or,boolean,20.0,7.0,6.0,0.3,0.857,0.444,0.6,0.4,0.429,0.571,6.363,4.107,D33 D25 D06 D20 D49 D08 D35 D03 D12 D46
+Final (Pipeline A),A,MACRO,,,,,,,0.596,0.805,0.648,0.583,0.367,0.657,0.763,3.879,3.621,

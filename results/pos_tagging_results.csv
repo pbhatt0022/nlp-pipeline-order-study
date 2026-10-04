@@ -1,0 +1,6 @@
+tagger,accuracy,correct,tokens
+nltk_default,0.982,222,226
+spacy_default,0.951,215,226
+rule_only,0.504,114,226
+rule_custom,0.987,223,226
+knn_custom,0.602,136,226

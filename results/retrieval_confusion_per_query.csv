@@ -1,0 +1,25 @@
+pipeline,our_qid,query,TP,FP,FN,TN,accuracy,precision,recall,f1
+A,Q01,Total War,3,0,1,49,0.981,1.0,0.75,0.857
+A,Q02,"Sonic AND ""Sega Genesis""",5,1,0,47,0.981,0.833,1.0,0.909
+A,Q03,Nintendo AND PlayStation,8,16,1,28,0.679,0.333,0.889,0.485
+A,Q04,"""Ash Ketchum"" AND NOT Japanese",1,1,2,49,0.943,0.5,0.333,0.4
+A,Q05,Metroid,3,8,0,42,0.849,0.273,1.0,0.429
+A,Q06,Zelda AND (theme OR song),8,8,0,37,0.849,0.5,1.0,0.667
+A,Q07,"""Tomb Raider""",5,2,0,46,0.962,0.714,1.0,0.833
+A,Q08,"Cloud AND ""Kingdom Hearts""",2,0,0,51,1.0,1.0,1.0,1.0
+A,Q09,"""Guitar Hero Live""",4,0,0,49,1.0,1.0,1.0,1.0
+A,Q10,"shooter AND NOT ""first person""",1,4,2,46,0.887,0.2,0.333,0.25
+A,Q11,"""first video game""",2,2,2,47,0.925,0.5,0.5,0.5
+A,Q12,"SNES OR ""Super Nintendo Entertainment System""",6,14,1,32,0.717,0.3,0.857,0.444
+B,Q01,Total War,3,0,1,49,0.981,1.0,0.75,0.857
+B,Q02,"Sonic AND ""Sega Genesis""",5,1,0,47,0.981,0.833,1.0,0.909
+B,Q03,Nintendo AND PlayStation,8,16,1,28,0.679,0.333,0.889,0.485
+B,Q04,"""Ash Ketchum"" AND NOT Japanese",1,1,2,49,0.943,0.5,0.333,0.4
+B,Q05,Metroid,3,8,0,42,0.849,0.273,1.0,0.429
+B,Q06,Zelda AND (theme OR song),8,8,0,37,0.849,0.5,1.0,0.667
+B,Q07,"""Tomb Raider""",5,2,0,46,0.962,0.714,1.0,0.833
+B,Q08,"Cloud AND ""Kingdom Hearts""",2,0,0,51,1.0,1.0,1.0,1.0
+B,Q09,"""Guitar Hero Live""",4,0,0,49,1.0,1.0,1.0,1.0
+B,Q10,"shooter AND NOT ""first person""",1,4,2,46,0.887,0.2,0.333,0.25
+B,Q11,"""first video game""",2,2,2,47,0.925,0.5,0.5,0.5
+B,Q12,"SNES OR ""Super Nintendo Entertainment System""",6,14,1,32,0.717,0.3,0.857,0.444

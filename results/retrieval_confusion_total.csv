@@ -1,0 +1,3 @@
+pipeline,TP,FP,FN,TN,accuracy (micro),precision (micro),recall (micro),f1 (micro),accuracy of retrieving nothing
+A,48,56,9,523,0.898,0.462,0.842,0.597,0.91
+B,48,56,9,523,0.898,0.462,0.842,0.597,0.91

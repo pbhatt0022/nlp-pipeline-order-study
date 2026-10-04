@@ -1,0 +1,13 @@
+our_qid,query,type,F1_A,F1_B,delta_F1_A_minus_B,better
+Q01,Total War,keyword,0.857,0.857,0.0,tie
+Q02,"Sonic AND ""Sega Genesis""",and,0.909,0.909,0.0,tie
+Q03,Nintendo AND PlayStation,and,0.485,0.485,0.0,tie
+Q04,"""Ash Ketchum"" AND NOT Japanese",not,0.4,0.4,0.0,tie
+Q05,Metroid,keyword,0.429,0.429,0.0,tie
+Q06,Zelda AND (theme OR song),or,0.667,0.667,0.0,tie
+Q07,"""Tomb Raider""",phrase,0.833,0.833,0.0,tie
+Q08,"Cloud AND ""Kingdom Hearts""",and,1.0,1.0,0.0,tie
+Q09,"""Guitar Hero Live""",phrase,1.0,1.0,0.0,tie
+Q10,"shooter AND NOT ""first person""",not,0.25,0.25,0.0,tie
+Q11,"""first video game""",phrase,0.5,0.5,0.0,tie
+Q12,"SNES OR ""Super Nintendo Entertainment System""",or,0.444,0.444,0.0,tie

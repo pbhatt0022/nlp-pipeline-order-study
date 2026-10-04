@@ -1,0 +1,44 @@
+Sonic Jam
+Sonic Jam is a 1997 video game compilation developed by Sonic Team and published by Sega for the Sega Saturn. It contains the four main Sonic the Hedgehog games released on the Sega Genesis: Sonic the Hedgehog (1991), Sonic the Hedgehog 2 (1992), Sonic the Hedgehog 3 (1994), and Sonic & Knuckles (1994). It also features "Sonic World", a 3D environment which doubles as an interactive museum of Sonic the Hedgehog content.
+Development began after the Japanese release of Nights into Dreams in July 1996. Sonic Jam was announced at the Spring 1997 Tokyo Game Show as part of a project to increase market awareness of Sega and the Sonic brand. It received mostly positive reviews, and was praised for its value, though some criticized the exclusion of Sonic CD and Sonic Spinball. "Sonic World" was praised for its range of content, though its graphics gathered mixed responses. A version for the handheld Game.com console was released in 1998.
+
+
+Gameplay
+Sonic Jam is a compilation which contains the four main Sonic the Hedgehog games released on the Sega Genesis: Sonic the Hedgehog (1991), Sonic the Hedgehog 2 (1992), Sonic the Hedgehog 3 (1994), and Sonic & Knuckles (1994). Unlike later Sonic collections, Sonic Jam does not use a Genesis emulator; the games are true ports, and all are nearly identical to the original Genesis releases, with the exception of minor bug fixes. Sonic Jam emulates Sonic & Knuckles' "lock-on technology", a special feature that allows the player to merge elements of Sonic & Knuckles into previous games, with altered levels and the choice to play the combined Sonic 3 and Knuckles game and play as Knuckles the Echidna in Sonic the Hedgehog 2.
+The games can be played in three difficulty modes: normal, easy, and original. Original mode is unchanged from the Genesis games, normal mode slightly alters the stage layouts to create a unique (often less difficult) experience, and easy mode adds platforms and removes many obstacles and some levels. New features include the ability to spin dash (introduced in Sonic 2) in the first Sonic the Hedgehog, play Special Stages separately, a "Time Attack" mode, and a "Time Out" option to disable time limits.
+
+Sonic Jam also includes a special 3D environment, "Sonic World", whereby the player can move around freely as Sonic and interact with various objects. "Sonic World" acts as an interactive museum in which the player can access an array of information of Sonic the Hedgehog-related content, such as viewing concept artwork, manuals, character portfolios, music, and original Japanese advertisements. To access these features, the player must guide Sonic into specific buildings. "Sonic World" also features a "mission list" accessible via jumping on a trampoline. Missions include collecting rings, reaching goalposts, and locating Tails; if all the missions are completed, the player is given the opportunity to view the credits. Sonic Jam is compatible with the Saturn's 3D Control Pad.
+
+
+Development
+At the Tokyo Game Show in early 1997, Sega announced Project Sonic, a promotional campaign aimed at increasing market awareness of the Sonic the Hedgehog brand. Yuji Naka, the co-creator of Sonic, said that "phase one" would introduce Sonic Jam as a compilation of games with several improvements rather than being direct ports. At the time of the show, the game was "88% complete". According to Naka, the purpose of Project Sonic was not only to increase consumer awareness but also renew excitement for Sega, as Sonic the Hedgehog was only initially successful outside of Japan.
+Development began after the Japanese release of Nights into Dreams in July 1996, after Sonic Team received letters from fans asking who Sonic was. The Sonic creators, Naka and Naoto Ohshima, thought it was important to introduce people to Sonic. Sonic Team had not worked on a Sonic game since Sonic & Knuckles in 1994; other Sonic games had been developed by teams including Sega Technical Institute (STI) and Traveller's Tales. Naka thought Sonic Team needed a period to "recharge our batteries" and had new ideas.
+"Sonic World" was part of an experiment to see how a Sonic the Hedgehog game would work in full 3D. It served as a prototype for the first fully 3D Sonic game, Sonic Adventure, which began development for the Saturn but was released on its successor, the Dreamcast, in 1998. "Sonic World" uses the same engine as Nights. Naka's refusal to share the Nights engine with the STI team developing Sonic X-treme—a factor in that game's cancellation—may have been motivated by his preference for Sonic Team to create an original 3D Sonic game. Naka later expressed relief that X-treme was cancelled. Naka and Ohshima said the most difficult process was gathering information to include in "Sonic World", as there were many Sonic games they had never heard of.
+
+
+Game.com version
+
+A version of Sonic Jam was released for the Game.com handheld console in 1998, with scaled-down versions of Sonic the Hedgehog 2, Sonic the Hedgehog 3, and Sonic & Knuckles. Pocket Gamer described it as "so far removed from the original releases that the game practically qualifies as an all-new Sonic adventure", criticizing the motion blur, looping music, and collision detection.
+
+
+Reception
+
+Sonic Jam received mostly positive reviews. It holds an average score of 77% at GameRankings, based on an aggregate of four reviews.
+The 3D environment, "Sonic World", received generally positive reviews. Lee Nutter of Sega Saturn Magazine said that it featured "some of the most astounding graphics witnessed on the Saturn", rivaling those of Super Mario 64. He praised the lack of clipping or glitching, and commended the 3D engine as "truly remarkable". Glenn Rubenstein from GameSpot, however, was not impressed, feeling it did not look as smooth as Super Mario 64 or Crash Bandicoot. Rubenstein praised the unlockable content, in particular the ability to view Japanese versions of Sonic the Hedgehog cartoons and adverts. Electronic Gaming Monthly described the 3D world as innovative and fun, but too small to serve as anything more than a preview. The lead reviewer called it "the best Game Select screen ever created" and emphasized that no one should buy the compilation for the 3D world alone.
+GameRevolution found the 3D graphics of the interactive museum impressive but the setup mundane. They commended the inclusion of Sonic the Hedgehog commercials. Colin Williamson of AllGame said the 3D presentation was "gorgeous", but felt the overall experience was not as fun compared to Super Mario 64 and Crash Bandicoot. Special K from GamePro felt Sonic Jam served as a "great permanent record" of the original Sonic games. Steve O'Learly from Hyper praised the detailed graphics of "Sonic World", saying that it showed the Saturn did perform well if programmed correctly, although he thought that it did not appear as polished as Super Mario 64.
+Reviewers largely praised the inclusion of the four Sonic the Hedgehog Genesis/Mega Drive games. Nutter acknowledged that the compilation "may not be everyone's cup of tea" and recommended that Sonic Jam was not worth purchasing if the player already owned the included games, although he praised its value for money. Rubenstein criticized the lack of Sonic CD or Sonic Spinball, stating that "Sega could have made a far more complete Sonic collection". He summarized that Sonic Jam was not a definitive Sonic experience, asserting that it had only been six years since the original Sonic the Hedgehog was released and "perhaps most of us aren't quite nostalgic about it yet". GameRevolution's reviewer echoed that the compilation was merely a "solid set of games that we've seen before", saying that the game was not recommended if the consumer was "tired of rehashes", but "well worth thirty or forty bucks." The Electronic Gaming Monthly team described the games as old and outdated, but still fun. Although Williamson noted that there was a lot of exploring for the player to do in Sonic Jam, he expressed skepticism that the majority of the game was from "yesterday" and there were not enough innovations. O'Learly praised the faithful and accurate replication of the original games, though he felt they were "dated". By contrast, Ed Lomas of Computer and Video Games considered it "amazing how well the games have aged". In a 2014 retrospective, the staff of GamesRadar praised Sonic Jam's "loving" presentation, noting "this was back before classic Sonic games appeared on every device known to man".
+
+
+Notes
+
+
+References
+Citations
+
+Bibliography
+
+
+External links
+Official website (in Japanese)
+Sonic Jam at MobyGames
+Sonic Jam at IMDb

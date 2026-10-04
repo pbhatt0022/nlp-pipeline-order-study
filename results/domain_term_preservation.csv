@@ -1,0 +1,257 @@
+entry,expected,output,preserved,pipeline
+Doom,doom,doom,True,A
+Halo,halo,halo,True,A
+Halo Wars,halo_wars,halo_wars,True,A
+Destiny,destiny,destiny,True,A
+Destiny 2,destiny_2,destiny_2,True,A
+Prey,prey,prey,True,A
+Superhot,superhot,superhot,True,A
+Fortnite,fortnite,fortnite,True,A
+The Legend of Zelda,the_legend_of_zelda,the_legend_of_zelda,True,A
+Legend of Zelda,legend_of_zelda,legend_of_zelda,True,A
+Zelda,zelda,zelda,True,A
+Metroid,metroid,metroid,True,A
+Pokemon,pokemon,pokemon,True,A
+Pokemon Sun and Moon,pokemon_sun_and_moon,pokemon_sun_and_moon,True,A
+Sonic the Hedgehog,sonic_the_hedgehog,sonic_the_hedgehog,True,A
+Super Mario Bros.,super_mario_bros_.,super_mario_bros_.,True,A
+Tetris,tetris,tetris,True,A
+Pong,pong,pong,True,A
+Spacewar!,spacewar_!,spacewar_!,True,A
+Metal Gear,metal_gear,metal_gear,True,A
+Metal Gear Solid,metal_gear_solid,metal_gear_solid,True,A
+Metal Gear Solid 4: Guns of the Patriots,metal_gear_solid_4_guns_of_the_patriots,metal_gear_solid_4_guns_of_the_patriots,True,A
+Wolfenstein,wolfenstein,wolfenstein,True,A
+Wolfenstein 3D,wolfenstein_3d,wolfenstein_3d,True,A
+Return to Castle Wolfenstein,return_to_castle_wolfenstein,return_to_castle_wolfenstein,True,A
+Wolfenstein: The New Order,wolfenstein_the_new_order,wolfenstein_the_new_order,True,A
+World of Warcraft,world_of_warcraft,world_of_warcraft,True,A
+Warcraft,warcraft,warcraft,True,A
+Silent Hill,silent_hill,silent_hill,True,A
+Resident Evil,resident_evil,resident_evil,True,A
+Tomb Raider,tomb_raider,tomb_raider,True,A
+Mortal Kombat,mortal_kombat,mortal_kombat,True,A
+Gears of War,gears_of_war,gears_of_war,True,A
+Gears of War 3,gears_of_war_3,gears_of_war_3,True,A
+The Last of Us,the_last_of_us,the_last_of_us,True,A
+The Secret of Monkey Island,the_secret_of_monkey_island,the_secret_of_monkey_island,True,A
+Monkey Island,monkey_island,monkey_island,True,A
+Grand Theft Auto,grand_theft_auto,grand_theft_auto,True,A
+Counter-Strike,counter-strike,counter-strike,True,A
+Counter-Strike: Global Offensive,counter-strike_global_offensive,counter-strike_global_offensive,True,A
+Final Fantasy,final_fantasy,final_fantasy,True,A
+Final Fantasy Type-0,final_fantasy_type-0,final_fantasy_type-0,True,A
+Kingdom Hearts,kingdom_hearts,kingdom_hearts,True,A
+Dragon Quest,dragon_quest,dragon_quest,True,A
+Persona 4,persona_4,persona_4,True,A
+Rock Band,rock_band,rock_band,True,A
+Guitar Hero,guitar_hero,guitar_hero,True,A
+Guitar Hero Live,guitar_hero_live,guitar_hero_live,True,A
+DJ Hero,dj_hero,dj_hero,True,A
+Total War,total_war,total_war,True,A
+Age of Empires,age_of_empires,age_of_empires,True,A
+Civilization,civilization,civilization,True,A
+Clannad,clannad,clannad,True,A
+Assassin's Creed,assassin_'s_creed,assassin_'s_creed,True,A
+Gran Turismo,gran_turismo,gran_turismo,True,A
+Senua's Sacrifice,senua_'s_sacrifice,senua_'s_sacrifice,True,A
+Tales of Innocence,tales_of_innocence,tales_of_innocence,True,A
+Resonance of Fate,resonance_of_fate,resonance_of_fate,True,A
+Freedom Wars,freedom_wars,freedom_wars,True,A
+Descent: FreeSpace - The Great War,descent_freespace_the_great_war,descent_freespace_the_great_war,True,A
+Mystery House,mystery_house,mystery_house,True,A
+Colossal Cave Adventure,colossal_cave_adventure,colossal_cave_adventure,True,A
+Maze War,maze_war,maze_war,True,A
+Tennis for Two,tennis_for_two,tennis_for_two,True,A
+Game Boy,game_boy,game_boy,True,A
+Game Boy Advance,game_boy_advance,game_boy_advance,True,A
+Game Boy Color,game_boy_color,game_boy_color,True,A
+Nintendo DS,nintendo_ds,nintendo_ds,True,A
+Nintendo Entertainment System,nintendo_entertainment_system,nintendo_entertainment_system,True,A
+Super Nintendo Entertainment System,super_nintendo_entertainment_system,super_nintendo_entertainment_system,True,A
+Nintendo 64,nintendo_64,nintendo_64,True,A
+GameCube,gamecube,gamecube,True,A
+Wii,wii,wii,True,A
+Wii U,wii_u,wii_u,True,A
+Nintendo Switch,nintendo_switch,nintendo_switch,True,A
+Sega Genesis,sega_genesis,sega_genesis,True,A
+Mega Drive,mega_drive,mega_drive,True,A
+Sega Saturn,sega_saturn,sega_saturn,True,A
+Dreamcast,dreamcast,dreamcast,True,A
+Master System,master_system,master_system,True,A
+PlayStation,playstation,playstation,True,A
+PlayStation 2,playstation_2,playstation_2,True,A
+PlayStation 3,playstation_3,playstation_3,True,A
+PlayStation 4,playstation_4,playstation_4,True,A
+PlayStation Portable,playstation_portable,playstation_portable,True,A
+Xbox,xbox,xbox,True,A
+Xbox 360,xbox_360,xbox_360,True,A
+Xbox One,xbox_one,xbox_one,True,A
+Atari 2600,atari_2600,atari_2600,True,A
+Magnavox Odyssey,magnavox_odyssey,magnavox_odyssey,True,A
+Microsoft Windows,microsoft_windows,microsoft_windows,True,A
+MS-DOS,ms-dos,ms-dos,True,A
+Nintendo,nintendo,nintendo,True,A
+Sega,sega,sega,True,A
+Sony,sony,sony,True,A
+Sony Computer Entertainment,sony_computer_entertainment,sony_computer_entertainment,True,A
+Microsoft,microsoft,microsoft,True,A
+Atari,atari,atari,True,A
+Ubisoft,ubisoft,ubisoft,True,A
+Ubisoft Quebec,ubisoft_quebec,ubisoft_quebec,True,A
+Relic Entertainment,relic_entertainment,relic_entertainment,True,A
+PopCap Games,popcap_games,popcap_games,True,A
+Daydream Software,daydream_software,daydream_software,True,A
+ESP Software,esp_software,esp_software,True,A
+Nihilistic Software,nihilistic_software,nihilistic_software,True,A
+id Software,id_software,id_software,True,A
+Bungie,bungie,bungie,True,A
+Konami,konami,konami,True,A
+Capcom,capcom,capcom,True,A
+Square Enix,square_enix,square_enix,True,A
+Square,square,square,True,A
+Blizzard Entertainment,blizzard_entertainment,blizzard_entertainment,True,A
+Rockstar Games,rockstar_games,rockstar_games,True,A
+Electronic Arts,electronic_arts,electronic_arts,True,A
+Activision,activision,activision,True,A
+Valve,valve,valve,True,A
+Naughty Dog,naughty_dog,naughty_dog,True,A
+Ninja Theory,ninja_theory,ninja_theory,True,A
+Epic Games,epic_games,epic_games,True,A
+LucasArts,lucasarts,lucasarts,True,A
+Harmonix,harmonix,harmonix,True,A
+Bandai Namco,bandai_namco,bandai_namco,True,A
+Game Freak,game_freak,game_freak,True,A
+Sierra On-Line,sierra_on-line,sierra_on-line,True,A
+Hideo Kojima,hideo_kojima,hideo_kojima,True,A
+E3,e3,e3,True,A
+Electronic Entertainment Expo,electronic_entertainment_expo,electronic_entertainment_expo,True,A
+Counter-Strike: Global Offensive Major Championship,counter-strike_global_offensive_major_championship,counter-strike_global_offensive_major_championship,True,A
+Doom,doom,doom,True,B
+Halo,halo,halo,True,B
+Halo Wars,halo_wars,halo_wars,True,B
+Destiny,destiny,destini,False,B
+Destiny 2,destiny_2,destiny_2,True,B
+Prey,prey,prey,True,B
+Superhot,superhot,superhot,True,B
+Fortnite,fortnite,fortnit,False,B
+The Legend of Zelda,the_legend_of_zelda,the_legend_of_zelda,True,B
+Legend of Zelda,legend_of_zelda,legend_of_zelda,True,B
+Zelda,zelda,zelda,True,B
+Metroid,metroid,metroid,True,B
+Pokemon,pokemon,pokemon,True,B
+Pokemon Sun and Moon,pokemon_sun_and_moon,pokemon_sun_and_moon,True,B
+Sonic the Hedgehog,sonic_the_hedgehog,sonic_the_hedgehog,True,B
+Super Mario Bros.,super_mario_bros_.,super_mario_bros_.,True,B
+Tetris,tetris,tetri,False,B
+Pong,pong,pong,True,B
+Spacewar!,spacewar_!,spacewar_!,True,B
+Metal Gear,metal_gear,metal_gear,True,B
+Metal Gear Solid,metal_gear_solid,metal_gear_solid,True,B
+Metal Gear Solid 4: Guns of the Patriots,metal_gear_solid_4_guns_of_the_patriots,metal_gear_solid_4_guns_of_the_patriots,True,B
+Wolfenstein,wolfenstein,wolfenstein,True,B
+Wolfenstein 3D,wolfenstein_3d,wolfenstein_3d,True,B
+Return to Castle Wolfenstein,return_to_castle_wolfenstein,return_to_castle_wolfenstein,True,B
+Wolfenstein: The New Order,wolfenstein_the_new_order,wolfenstein_the_new_order,True,B
+World of Warcraft,world_of_warcraft,world_of_warcraft,True,B
+Warcraft,warcraft,warcraft,True,B
+Silent Hill,silent_hill,silent_hill,True,B
+Resident Evil,resident_evil,resident_evil,True,B
+Tomb Raider,tomb_raider,tomb_raider,True,B
+Mortal Kombat,mortal_kombat,mortal_kombat,True,B
+Gears of War,gears_of_war,gears_of_war,True,B
+Gears of War 3,gears_of_war_3,gears_of_war_3,True,B
+The Last of Us,the_last_of_us,the_last_of_us,True,B
+The Secret of Monkey Island,the_secret_of_monkey_island,the_secret_of_monkey_island,True,B
+Monkey Island,monkey_island,monkey_island,True,B
+Grand Theft Auto,grand_theft_auto,grand_theft_auto,True,B
+Counter-Strike,counter-strike,counter-strik,False,B
+Counter-Strike: Global Offensive,counter-strike_global_offensive,counter-strike_global_offensive,True,B
+Final Fantasy,final_fantasy,final_fantasy,True,B
+Final Fantasy Type-0,final_fantasy_type-0,final_fantasy_type-0,True,B
+Kingdom Hearts,kingdom_hearts,kingdom_hearts,True,B
+Dragon Quest,dragon_quest,dragon_quest,True,B
+Persona 4,persona_4,persona_4,True,B
+Rock Band,rock_band,rock_band,True,B
+Guitar Hero,guitar_hero,guitar_hero,True,B
+Guitar Hero Live,guitar_hero_live,guitar_hero_live,True,B
+DJ Hero,dj_hero,dj_hero,True,B
+Total War,total_war,total_war,True,B
+Age of Empires,age_of_empires,age_of_empires,True,B
+Civilization,civilization,civil,False,B
+Clannad,clannad,clannad,True,B
+Assassin's Creed,assassin_'s_creed,assassin_'s_creed,True,B
+Gran Turismo,gran_turismo,gran_turismo,True,B
+Senua's Sacrifice,senua_'s_sacrifice,senua_'s_sacrifice,True,B
+Tales of Innocence,tales_of_innocence,tales_of_innocence,True,B
+Resonance of Fate,resonance_of_fate,resonance_of_fate,True,B
+Freedom Wars,freedom_wars,freedom_wars,True,B
+Descent: FreeSpace - The Great War,descent_freespace_the_great_war,descent_freespace_the_great_war,True,B
+Mystery House,mystery_house,mystery_house,True,B
+Colossal Cave Adventure,colossal_cave_adventure,colossal_cave_adventure,True,B
+Maze War,maze_war,maze_war,True,B
+Tennis for Two,tennis_for_two,tennis_for_two,True,B
+Game Boy,game_boy,game_boy,True,B
+Game Boy Advance,game_boy_advance,game_boy_advance,True,B
+Game Boy Color,game_boy_color,game_boy_color,True,B
+Nintendo DS,nintendo_ds,nintendo_ds,True,B
+Nintendo Entertainment System,nintendo_entertainment_system,nintendo_entertainment_system,True,B
+Super Nintendo Entertainment System,super_nintendo_entertainment_system,super_nintendo_entertainment_system,True,B
+Nintendo 64,nintendo_64,nintendo_64,True,B
+GameCube,gamecube,gamecub,False,B
+Wii,wii,wii,True,B
+Wii U,wii_u,wii_u,True,B
+Nintendo Switch,nintendo_switch,nintendo_switch,True,B
+Sega Genesis,sega_genesis,sega_genesis,True,B
+Mega Drive,mega_drive,mega_drive,True,B
+Sega Saturn,sega_saturn,sega_saturn,True,B
+Dreamcast,dreamcast,dreamcast,True,B
+Master System,master_system,master_system,True,B
+PlayStation,playstation,playstat,False,B
+PlayStation 2,playstation_2,playstation_2,True,B
+PlayStation 3,playstation_3,playstation_3,True,B
+PlayStation 4,playstation_4,playstation_4,True,B
+PlayStation Portable,playstation_portable,playstation_portable,True,B
+Xbox,xbox,xbox,True,B
+Xbox 360,xbox_360,xbox_360,True,B
+Xbox One,xbox_one,xbox_one,True,B
+Atari 2600,atari_2600,atari_2600,True,B
+Magnavox Odyssey,magnavox_odyssey,magnavox_odyssey,True,B
+Microsoft Windows,microsoft_windows,microsoft_windows,True,B
+MS-DOS,ms-dos,ms-dos,True,B
+Nintendo,nintendo,nintendo,True,B
+Sega,sega,sega,True,B
+Sony,sony,soni,False,B
+Sony Computer Entertainment,sony_computer_entertainment,sony_computer_entertainment,True,B
+Microsoft,microsoft,microsoft,True,B
+Atari,atari,atari,True,B
+Ubisoft,ubisoft,ubisoft,True,B
+Ubisoft Quebec,ubisoft_quebec,ubisoft_quebec,True,B
+Relic Entertainment,relic_entertainment,relic_entertainment,True,B
+PopCap Games,popcap_games,popcap_games,True,B
+Daydream Software,daydream_software,daydream_software,True,B
+ESP Software,esp_software,esp_software,True,B
+Nihilistic Software,nihilistic_software,nihilistic_software,True,B
+id Software,id_software,id_software,True,B
+Bungie,bungie,bungi,False,B
+Konami,konami,konami,True,B
+Capcom,capcom,capcom,True,B
+Square Enix,square_enix,square_enix,True,B
+Square,square,squar,False,B
+Blizzard Entertainment,blizzard_entertainment,blizzard_entertainment,True,B
+Rockstar Games,rockstar_games,rockstar_games,True,B
+Electronic Arts,electronic_arts,electronic_arts,True,B
+Activision,activision,activis,False,B
+Valve,valve,valv,False,B
+Naughty Dog,naughty_dog,naughty_dog,True,B
+Ninja Theory,ninja_theory,ninja_theory,True,B
+Epic Games,epic_games,epic_games,True,B
+LucasArts,lucasarts,lucasart,False,B
+Harmonix,harmonix,harmonix,True,B
+Bandai Namco,bandai_namco,bandai_namco,True,B
+Game Freak,game_freak,game_freak,True,B
+Sierra On-Line,sierra_on-line,sierra_on-line,True,B
+Hideo Kojima,hideo_kojima,hideo_kojima,True,B
+E3,e3,e3,True,B
+Electronic Entertainment Expo,electronic_entertainment_expo,electronic_entertainment_expo,True,B
+Counter-Strike: Global Offensive Major Championship,counter-strike_global_offensive_major_championship,counter-strike_global_offensive_major_championship,True,B

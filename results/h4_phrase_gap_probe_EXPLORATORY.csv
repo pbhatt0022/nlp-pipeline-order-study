@@ -1,0 +1,9 @@
+phrase,exact_docs,A_query_terms,A_docs,A_false_matches,A_missed,B_query_terms,B_docs,B_false_matches,B_missed
+Breath of the Wild,4,breath@0 wild@3,4,,,breath@0 wild@3,4,,
+Ocarina of Time,9,ocarina@0 time@2,9,,,ocarina@0 time@2,9,,
+developed by Nintendo,5,develop@0 by@1 nintendo@2,5,,,develop@0 nintendo@2,7,D15 D33,
+published by Sega,5,publish@0 by@1 sega@2,5,,,publish@0 sega@2,7,D42 D51,
+released for the Wii,5,release@0 for@1 wii@3,3,,D07 D53,releas@0 wii@3,7,D01 D06 D31,D53
+released in North America,6,release@0 north@2 america@3,9,D06 D15 D51,,releas@0 north@2 america@3,9,D06 D15 D51,
+one of the best,11,one@0 good@3,10,,D07,one@0 best@3,11,,
+based on the,26,base@0 on@1,39,D01 D08 D11 D13 D18 D22 D30 D32 D37 D40 D41 D46 D47,,base@0,44,D01 D02 D08 D11 D12 D13 D17 D18 D21 D22 D24 D30 D32 D37 D40 D41 D46 D47,

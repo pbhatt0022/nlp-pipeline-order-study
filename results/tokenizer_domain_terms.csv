@@ -1,0 +1,5 @@
+tokenizer,multiword_lexicon_entries,kept_as_one_token,share
+nltk,91,0,0.0
+spacy,91,0,0.0
+custom,91,0,0.0
+hybrid,91,91,1.0

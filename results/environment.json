@@ -1,0 +1,8 @@
+{
+  "python": "3.14.7",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "nltk": "3.10.3",
+  "spacy": "3.8.13",
+  "scikit-learn": "1.8.0",
+  "pandas": "3.0.1"
+}

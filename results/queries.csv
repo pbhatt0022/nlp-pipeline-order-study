@@ -1,0 +1,13 @@
+our_qid,miracl_qid,question,query,type,ngram_class,cluster
+Q01,dev:4277,How many units has Total War sold?,Total War,keyword,bigram (MWE),sales
+Q02,train:3281,Was there a Sonic game on the Sega Genesis?,"Sonic AND ""Sega Genesis""",and,boolean,consoles
+Q03,train:4066,Did Nintendo help make PlayStation?,Nintendo AND PlayStation,and,boolean,consoles
+Q04,dev:4128,Who plays the voice of Ash Ketchum in the English version of Pokemon?,"""Ash Ketchum"" AND NOT Japanese",not,boolean,franchises
+Q05,train:112,Who are the main villains of Metroid?,Metroid,keyword,unigram,franchises
+Q06,train:1203,Who wrote the Zelda theme song?,Zelda AND (theme OR song),or,boolean,franchises
+Q07,train:368,When was the first Tomb Raider published?,"""Tomb Raider""",phrase,bigram (MWE),firsts
+Q08,dev:2436,Is Cloud in Kingdom Hearts?,"Cloud AND ""Kingdom Hearts""",and,boolean,franchises
+Q09,train:12,When was Guitar Hero Live first released?,"""Guitar Hero Live""",phrase,trigram (MWE),firsts
+Q10,train:1278,What was the first third person shooter?,"shooter AND NOT ""first person""",not,boolean,genre
+Q11,train:285,What was the first video game?,"""first video game""",phrase,trigram,firsts
+Q12,train:2900,When was the Super Nintendo Entertainment System first introduced?,"SNES OR ""Super Nintendo Entertainment System""",or,boolean,consoles

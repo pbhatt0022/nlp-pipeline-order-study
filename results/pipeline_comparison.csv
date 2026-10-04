@@ -1,0 +1,16 @@
+Measure,Pipeline A,Pipeline B,Final Pipeline
+Token Count,176387.0,137253.0,176387.0
+Vocabulary Size,13165.0,11247.0,13165.0
+"Meaningful N-Grams (bigram rate, top 20)",0.3,1.0,0.3
+Meaningful trigram rate (top 20),0.55,1.0,0.55
+Domain-term preservation,1.0,0.898,1.0
+Precision (macro),0.596,0.596,0.596
+Recall (macro),0.805,0.805,0.805
+F1-score (macro),0.648,0.648,0.648
+P@5,0.583,0.583,0.583
+P@10,0.367,0.367,0.367
+R@5,0.657,0.657,0.657
+R@10,0.763,0.763,0.763
+"Warm query time (ms, mean of medians)",3.62,3.25,3.62
+"Cold query time (ms, mean)",3.88,3.39,3.88
+Selection,,,A (Rule 2: |delta F1| = 0.0000 < 0.05; domain-term preservation gap = 0.1016 >= 0.05)

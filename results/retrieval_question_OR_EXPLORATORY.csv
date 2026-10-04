@@ -1,0 +1,25 @@
+pipeline,our_qid,query,type,ngram_class,n_retrieved,n_relevant,TP,P,R,F1,P@5,P@10,R@5,R@10,cold_ms,warm_ms,retrieved_top10
+A,Q01,How OR many OR units OR has OR Total OR War OR sold,or,question as OR,51,4,4,0.078,1.0,0.145,0.6,0.3,0.75,0.75,16.896,14.872,D47 D20 D23 D05 D41 D06 D30 D15 D08 D32
+A,Q02,Was OR there OR a OR Sonic OR game OR on OR the OR Sega OR Genesis,or,question as OR,53,5,5,0.094,1.0,0.172,0.8,0.5,0.8,1.0,18.052,18.382,D14 D40 D19 D42 D30 D27 D25 D05 D51 D08
+A,Q03,Did OR Nintendo OR help OR make OR PlayStation,or,question as OR,52,9,9,0.173,1.0,0.295,0.6,0.6,0.333,0.667,11.786,11.059,D49 D20 D39 D15 D01 D03 D17 D22 D08 D25
+A,Q04,Who OR plays OR the OR voice OR of OR Ash OR Ketchum OR in OR the OR English OR version OR of OR Pokemon,or,question as OR,52,3,3,0.058,1.0,0.109,0.6,0.3,1.0,1.0,22.889,24.06,D45 D50 D37 D34 D43 D08 D51 D01 D06 D16
+A,Q05,Who OR are OR the OR main OR villains OR of OR Metroid,or,question as OR,53,3,3,0.057,1.0,0.107,0.6,0.3,1.0,1.0,13.989,13.805,D46 D21 D09 D52 D31 D08 D17 D27 D16 D51
+A,Q06,Who OR wrote OR the OR Zelda OR theme OR song,or,question as OR,50,8,8,0.16,1.0,0.276,0.6,0.7,0.375,0.875,19.802,10.766,D49 D03 D39 D13 D53 D06 D07 D36 D31 D22
+A,Q07,When OR was OR the OR first OR Tomb OR Raider OR published,or,question as OR,53,5,5,0.094,1.0,0.172,0.8,0.5,0.8,1.0,12.833,14.122,D44 D28 D32 D04 D42 D18 D33 D29 D17 D24
+A,Q08,Is OR Cloud OR in OR Kingdom OR Hearts,or,question as OR,53,2,2,0.038,1.0,0.073,0.2,0.2,0.5,1.0,11.327,10.671,D18 D26 D53 D06 D31 D16 D36 D25 D48 D28
+A,Q09,When OR was OR Guitar OR Hero OR Live OR first OR released,or,question as OR,53,4,4,0.075,1.0,0.14,0.8,0.4,1.0,1.0,17.448,16.122,D39 D38 D22 D52 D20 D36 D09 D50 D29 D06
+A,Q10,What OR was OR the OR first OR third OR person OR shooter,or,question as OR,53,3,3,0.057,1.0,0.107,0.4,0.2,0.667,0.667,15.596,14.774,D17 D46 D20 D09 D35 D48 D21 D32 D31 D52
+A,Q11,What OR was OR the OR first OR video OR game,or,question as OR,53,4,4,0.075,1.0,0.14,0.0,0.0,0.0,0.0,12.181,13.258,D33 D24 D35 D45 D46 D44 D37 D43 D38 D30
+A,Q12,When OR was OR the OR Super OR Nintendo OR Entertainment OR System OR first OR introduced,or,question as OR,53,7,7,0.132,1.0,0.233,0.4,0.4,0.286,0.571,21.849,18.696,D49 D12 D33 D46 D08 D25 D01 D06 D05 D09
+B,Q01,How OR many OR units OR has OR Total OR War OR sold,or,question as OR,48,4,4,0.083,1.0,0.154,0.6,0.3,0.75,0.75,14.921,12.367,D47 D20 D05 D23 D41 D08 D30 D06 D15 D38
+B,Q02,Was OR there OR a OR Sonic OR game OR on OR the OR Sega OR Genesis,or,question as OR,53,5,5,0.094,1.0,0.172,0.8,0.5,0.8,1.0,13.282,15.449,D14 D40 D19 D42 D30 D27 D25 D05 D51 D08
+B,Q03,Did OR Nintendo OR help OR make OR PlayStation,or,question as OR,49,9,9,0.184,1.0,0.31,0.6,0.6,0.333,0.667,9.802,8.686,D49 D20 D01 D15 D39 D03 D17 D22 D08 D25
+B,Q04,Who OR plays OR the OR voice OR of OR Ash OR Ketchum OR in OR the OR English OR version OR of OR Pokemon,or,question as OR,50,3,3,0.06,1.0,0.113,0.6,0.3,1.0,1.0,20.969,20.972,D45 D50 D37 D34 D43 D08 D51 D01 D06 D16
+B,Q05,Who OR are OR the OR main OR villains OR of OR Metroid,or,question as OR,40,3,3,0.075,1.0,0.14,0.6,0.3,1.0,1.0,10.409,10.879,D46 D09 D21 D52 D31 D08 D17 D27 D51 D16
+B,Q06,Who OR wrote OR the OR Zelda OR theme OR song,or,question as OR,41,8,8,0.195,1.0,0.327,0.6,0.7,0.375,0.875,9.73,10.411,D49 D03 D13 D53 D39 D07 D31 D06 D36 D22
+B,Q07,When OR was OR the OR first OR Tomb OR Raider OR published,or,question as OR,52,5,5,0.096,1.0,0.175,0.6,0.4,0.6,0.8,10.199,11.274,D44 D28 D32 D33 D42 D29 D04 D20 D39 D49
+B,Q08,Is OR Cloud OR in OR Kingdom OR Hearts,or,question as OR,24,2,2,0.083,1.0,0.154,0.2,0.2,0.5,1.0,7.888,8.113,D18 D26 D53 D31 D06 D16 D36 D34 D25 D48
+B,Q09,When OR was OR Guitar OR Hero OR Live OR first OR released,or,question as OR,53,4,4,0.075,1.0,0.14,0.8,0.4,1.0,1.0,11.295,12.903,D39 D22 D38 D52 D20 D36 D09 D50 D01 D06
+B,Q10,What OR was OR the OR first OR third OR person OR shooter,or,question as OR,51,3,3,0.059,1.0,0.111,0.4,0.2,0.667,0.667,11.86,12.669,D17 D20 D35 D09 D46 D48 D21 D32 D31 D52
+B,Q11,What OR was OR the OR first OR video OR game,or,question as OR,53,4,4,0.075,1.0,0.14,0.2,0.1,0.25,0.25,10.14,10.443,D33 D20 D49 D12 D39 D17 D29 D35 D50 D03
+B,Q12,When OR was OR the OR Super OR Nintendo OR Entertainment OR System OR first OR introduced,or,question as OR,53,7,7,0.132,1.0,0.233,0.4,0.4,0.286,0.571,15.31,15.755,D33 D12 D49 D46 D08 D25 D01 D06 D09 D05

@@ -1,0 +1,4 @@
+stop_list,tokens_kept,pct_removed,vocabulary
+none,221806,0.0,16030
+"minimal (A, 10 words)",172411,22.3,16020
+"nltk (B, 198 words)",137253,38.1,15880

@@ -1,0 +1,13 @@
+pipeline,our_qid,query,type,cluster,n_retrieved,n_relevant,P,R,F1,P@5,P@10,R@5,R@10,cold_ms,warm_ms,retrieved_top10
+A,Q01,units,keyword,sales,27,4,0.148,1.0,0.258,0.4,0.3,0.5,0.75,6.32,5.69,D20 D47 D23 D08 D49 D02 D01 D05 D06 D25
+A,Q02,"""there Sonic game""",phrase,consoles,0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.03,2.93,
+A,Q03,Nintendo AND help,and,consoles,27,9,0.185,0.556,0.278,0.2,0.3,0.111,0.333,11.27,13.77,D20 D46 D17 D42 D05 D08 D37 D06 D09 D25
+A,Q04,plays OR voice,or,franchises,46,3,0.043,0.667,0.082,0.4,0.2,0.667,0.667,12.16,11.75,D45 D37 D03 D24 D36 D41 D06 D42 D34 D21
+A,Q05,villains AND NOT Metroid,not,franchises,4,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.87,11.21,D52 D31 D27 D16
+A,Q06,wrote,keyword,franchises,31,8,0.194,0.75,0.308,0.0,0.1,0.0,0.125,5.77,5.89,D04 D24 D50 D43 D18 D47 D37 D12 D17 D22
+A,Q07,"""Tomb Raider published""",phrase,firsts,0,5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.14,2.77,
+A,Q08,Cloud AND Kingdom,and,franchises,5,2,0.4,1.0,0.571,0.4,0.2,1.0,1.0,10.25,10.51,D18 D26 D53 D31 D16
+A,Q09,Guitar OR Hero,or,firsts,18,4,0.222,1.0,0.364,0.8,0.4,1.0,1.0,10.05,10.49,D39 D38 D22 D52 D20 D36 D09 D50 D29 D06
+A,Q10,third AND NOT person,not,genre,15,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,12.64,10.87,D20 D49 D19 D01 D06 D08 D36 D25 D43 D04
+A,Q11,video,keyword,firsts,53,4,0.075,1.0,0.14,0.0,0.0,0.0,0.0,5.56,5.75,D01 D02 D03 D04 D05 D06 D07 D08 D09 D10
+A,Q12,"""Super Nintendo Entertainment""",phrase,consoles,3,7,0.333,0.143,0.2,0.2,0.1,0.143,0.143,3.22,3.08,D49 D25 D15

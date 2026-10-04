@@ -1,0 +1,7 @@
+pipeline,operand_matching,docs_retrieved_total,P,R,F1,queries_changed_vs_full
+A,full (vgir),104,0.596,0.805,0.648,0
+A,no substring fallback,97,0.601,0.774,0.641,1
+A,direct postings only,89,0.617,0.764,0.647,2
+B,full (vgir),104,0.596,0.805,0.648,0
+B,no substring fallback,94,0.605,0.774,0.645,2
+B,direct postings only,89,0.617,0.764,0.647,2

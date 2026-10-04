@@ -1,0 +1,7 @@
+method,UI,OI,SW,universe==university
+porter,0.298,0.0087,0.0293,True
+snowball,0.298,0.0087,0.0293,True
+lancaster,0.0,0.0087,,True
+wordnet_noun,0.872,0.0,0.0,False
+wordnet_verb,0.617,0.0,0.0,False
+spacy_lemma,0.574,0.0,0.0,False

@@ -1,0 +1,41 @@
+pipeline,n,n_gram,rank,gram,count,frequency,meaningful
+A,4,4-gram,1,home video game console,28,0.00016,True
+A,4,4-gram,2,external link official website,19,0.00011,True
+A,4,4-gram,3,generation video game console,18,0.0001,True
+A,4,4-gram,4,zelda ii adventure link,17,0.0001,True
+A,4,4-gram,5,super smash bros ultimate,17,0.0001,True
+A,4,4-gram,6,zelda 's adventure be,15,9e-05,False
+A,4,4-gram,7,face evil wand gamelon,15,9e-05,True
+A,4,4-gram,8,super smash bros series,15,9e-05,True
+A,4,4-gram,9,majora 's mask be,15,9e-05,False
+A,4,4-gram,10,game be release for,14,8e-05,False
+A,5,5-gram,1,reference external link official website,11,6e-05,True
+A,5,5-gram,2,super smash bros for nintendo,11,6e-05,True
+A,5,5-gram,3,smash bros for nintendo 3ds,10,6e-05,True
+A,5,5-gram,4,bros for nintendo 3ds wii_u,10,6e-05,True
+A,5,5-gram,5,also appear super smash bros,9,5e-05,True
+A,5,5-gram,6,link face evil zelda wand,9,5e-05,True
+A,5,5-gram,7,face evil zelda wand gamelon,9,5e-05,True
+A,5,5-gram,8,na na na na na,8,5e-05,True
+A,5,5-gram,9,issue limited series write by,6,3e-05,False
+A,5,5-gram,10,ocarina time majora 's mask,6,3e-05,True
+B,4,4-gram,1,home video game consol,28,0.0002,True
+B,4,4-gram,2,extern link offici websit,19,0.00014,True
+B,4,4-gram,3,generat video game consol,18,0.00013,True
+B,4,4-gram,4,zelda ii adventur link,17,0.00012,True
+B,4,4-gram,5,super smash bros ultim,17,0.00012,True
+B,4,4-gram,6,face evil wand gamelon,15,0.00011,True
+B,4,4-gram,7,super smash bros seri,15,0.00011,True
+B,4,4-gram,8,appear super smash bros,14,0.0001,True
+B,4,4-gram,9,refer extern link offici,13,9e-05,True
+B,4,4-gram,10,note refer extern link,11,8e-05,True
+B,5,5-gram,1,refer extern link offici websit,13,9e-05,True
+B,5,5-gram,2,super smash bros nintendo 3ds,10,7e-05,True
+B,5,5-gram,3,smash bros nintendo 3ds wii_u,10,7e-05,True
+B,5,5-gram,4,also appear super smash bros,9,7e-05,True
+B,5,5-gram,5,link face evil zelda wand,9,7e-05,True
+B,5,5-gram,6,face evil zelda wand gamelon,9,7e-05,True
+B,5,5-gram,7,note refer extern link offici,8,6e-05,True
+B,5,5-gram,8,na na na na na,8,6e-05,True
+B,5,5-gram,9,playabl charact super smash bros,7,5e-05,True
+B,5,5-gram,10,ocarina time majora 's mask,6,4e-05,True

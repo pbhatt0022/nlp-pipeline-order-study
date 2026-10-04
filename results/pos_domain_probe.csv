@@ -1,0 +1,45 @@
+term,doc_id,context,nltk_default,spacy_default,custom_rule,nltk_default_is_NNP,spacy_default_is_NNP,custom_rule_is_NNP
+Activision,D01,"Other handhelds
+
+Software
+
+Milestone titles
+
+The Call of Duty series by Activision (individual games by Treyarch and Infinity Ward) was immensely popular during",NNP,NNP,NNP,True,True,True
+Atari,D05,"1981–1984: Origins
+
+1981–1983: Development
+The video game industry experienced a period of rapid growth and unprecedented popularity during the late 1970s to ea",NNP,NNP,NNP,True,True,True
+Bungie,D01,"Halo 3 (360) by Bungie and Microsoft Studios was immediately met with critical acclaim, and was the top selling video game of 2007.",NNP,NNP,NNP,True,True,True
+Capcom,D01,"Publishers such as Ubisoft, Electronic Arts, Capcom, and Majesco continued to release exclusive titles for the console, but the Wii's strongest titles remained ",NNP,NNP,NNP,True,True,True
+Civilization,D53,"A difficult feature to include naturally was the remnants of Lanayru's Ancient Civilization, which used electricity to power both its technology and citizens.",NNP,NNP,NNP,True,True,True
+Destiny,D03,"Guided by the inhabitants of Tolemac, Zelda then makes her way to the mountains to conquer the Shrines of Air and Destiny before crossing the great south sea to",NNP,NNP,NNP,True,True,True
+Doom,D17,"The game eschewed the popular first person perspective of games such as Doom, instead making use of ""third person"" viewpoints, wide 3D environments and a contro",NNP,NNP,NNP,True,True,True
+Dreamcast,D07,"Liu, despite his praise of the graphics, compared them unfavorably to newer consoles like the Dreamcast and PlayStation 2, suggesting the game would have benefi",NNP,NNP,NNP,True,True,True
+Fortnite,D09,"In 2020, Nintendo and Epic Games began negotiations to include Samus in Fortnite as a skin.",NNP,NNP,NNP,True,True,True
+GameCube,D01,"It drops support for GameCube games and accessories, and is designed to sit horizontally.",NNP,NNP,NNP,True,True,True
+Halo,D01,"Microsoft's strategy to boost sales with the release of the highly anticipated Halo 3 in September 2007 paid off, outselling the Wii that month in North America",NNP,NNP,NNP,True,True,True
+Harmonix,D38,"As Guitar Hero Live
+In February 2015, rumors surfaced that new entries in both the Guitar Hero and Rock Band franchises for eighth generation consoles were in d",NNP,NNP,NNP,True,True,True
+Konami,D09,"Along with the 1997 Konami game Castlevania: Symphony of the Night, the early Metroid games defined the Metroidvania subgenre, inspiring other games with contin",NNP,NNP,NNP,True,True,True
+MS-DOS,D18,"Cloud Kingdoms is a puzzle game published by Millennium Interactive for the Amiga, Atari ST, Commodore 64, and MS-DOS in 1990.",NNP,NNP,NNP,True,True,True
+Metroid,D01,"As in previous generations, Nintendo provided support for its new console with first-party franchises like Mario, The Legend of Zelda, Metroid, and Pokemon.",NNP,NNP,NNP,True,True,True
+Microsoft,D01,"With releases such as Microsoft's Xbox 360, Sony's PlayStation 3, and the Nintendo Wii, this generation of video game consoles became an important part of the g",NNP,NNP,NNP,True,True,True
+Nintendo,D01,"With releases such as Microsoft's Xbox 360, Sony's PlayStation 3, and the Nintendo Wii, this generation of video game consoles became an important part of the g",NNP,NNP,NNP,True,True,True
+PlayStation,D01,"With releases such as Microsoft's Xbox 360, Sony's PlayStation 3, and the Nintendo Wii, this generation of video game consoles became an important part of the g",NNP,NNP,NNP,True,True,True
+Pokemon,D01,"As in previous generations, Nintendo provided support for its new console with first-party franchises like Mario, The Legend of Zelda, Metroid, and Pokemon.",NNP,NNP,NNP,True,True,True
+Pong,D08,"The Color TV-Game series consists of:
+
+Color TV-Game 6, released June 1, 1977 with six variations of Pong: Tennis, Hockey, and Volleyball in Singles or Doubles ",NNP,NNP,NNP,True,True,True
+Prey,D48,"The game Prey was briefly profiled in a 1997 issue of PC Gamer, but was not released until 2006, and only then in highly altered form.",NNP,NNP,NNP,True,True,True
+Sega,D02,Empire: Total War is a turn-based strategy and real-time tactics video game developed by Creative Assembly and published by Sega.,NNP,NNP,NNP,True,True,True
+Sony,D01,"With releases such as Microsoft's Xbox 360, Sony's PlayStation 3, and the Nintendo Wii, this generation of video game consoles became an important part of the g",NNP,NNP,NNP,True,True,True
+Square,D02,"Each unit has capabilities such as Square Formation, Wedge, Diamond, Equip bayonets, or Fire at will.",NNP,NNP,NNP,True,True,True
+Tetris,D01,"Simple games such as Tetris and Solitaire had existed for PDA devices since their introduction, but by 2009 PDAs and phones had grown sufficiently powerful to w",NNP,NNP,NNP,True,True,True
+Ubisoft,D01,"Publishers such as Ubisoft, Electronic Arts, Capcom, and Majesco continued to release exclusive titles for the console, but the Wii's strongest titles remained ",NNP,NNP,NNP,True,True,True
+Valve,D23,"Steam Deck compatibility status: The game is currently listed as ""Unsupported"" on Steam Deck, with Valve still working on official support.",NNP,NNP,NNP,True,True,True
+Warcraft,D35,"Games such as Warcraft III: Reign of Chaos have used both types of cutscenes; pre-rendered for the beginning and end of a campaign, and the in-game engine for l",NNP,NNP,NNP,True,True,True
+Wii,D01,"With releases such as Microsoft's Xbox 360, Sony's PlayStation 3, and the Nintendo Wii, this generation of video game consoles became an important part of the g",NNP,NNP,NNP,True,True,True
+Wolfenstein,D42,It was developed using a game engine similar to Wolfenstein 3D's and ten educators and psychologists helped create the game's challenges.,NNP,NNP,NNP,True,True,True
+Xbox,D01,"With releases such as Microsoft's Xbox 360, Sony's PlayStation 3, and the Nintendo Wii, this generation of video game consoles became an important part of the g",NN,NNP,NNP,False,True,True
+Zelda,D01,"As in previous generations, Nintendo provided support for its new console with first-party franchises like Mario, The Legend of Zelda, Metroid, and Pokemon.",NNP,NNP,NNP,True,True,True

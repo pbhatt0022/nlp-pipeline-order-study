@@ -1,0 +1,17 @@
+S.No.,Word,category,corpus_freq,gpt2_tokens,gpt2_n,corpus_bpe_tokens,corpus_bpe_n,nltk,hybrid
+1,game,common,2769,game,1,game</w>,1,game,game
+2,with,common,1967,with,1,with</w>,1,with,with
+3,that,common,1697,that,1,that</w>,1,that,that
+4,games,common,1428,games,1,games</w>,1,games,games
+5,thankyouashandpikachu,rare,1,thank | you | ash | and | p | ik | achu,7,th | an | k | y | ou | as | hand | pi | k | a | ch | u</w>,12,thankyouashandpikachu,thankyouashandpikachu
+6,computerspielemuseum,rare,1,com | puters | pie | lem | useum,5,compu | ter | sp | i | el | em | u | se | um</w>,9,computerspielemuseum,computerspielemuseum
+7,interconnectability,rare,1,inter | connect | ability,3,inter | con | nec | ta | b | ility</w>,6,interconnectability,interconnectability
+8,characteristically,rare,1,character | istically,2,charac | t | eri | s | tic | ally</w>,6,characteristically,characteristically
+9,nintendo,domain,1330,n | intendo,2,nintendo</w>,1,nintendo,nintendo
+10,playstation,domain,387,play | station,2,playstation</w>,1,playstation,playstation
+11,metroid,domain,304,met | roid,2,metroid</w>,1,metroid,metroid
+12,zelda,domain,527,ze | lda,2,zelda</w>,1,zelda,zelda
+13,pokemon,domain,203,p | okemon,2,pokemon</w>,1,pokemon,pokemon
+14,gameboy,domain,0,game | boy,2,game | boy</w>,2,gameboy,Game_Boy
+15,multiplayer,domain,84,multi | player,2,multi | player</w>,2,multiplayer,multiplayer
+16,gameplay,domain,286,game | play,2,gameplay</w>,1,gameplay,gameplay

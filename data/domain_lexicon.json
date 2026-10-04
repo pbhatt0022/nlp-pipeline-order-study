@@ -1,0 +1,47 @@
+{
+  "_note": "Starter lexicon. Team: add titles/platforms/companies that appear in your 50 documents BEFORE freezing the preregistration. Do not edit after results are seen (log any change as an amendment).",
+  "titles": [
+    "Doom", "Halo", "Halo Wars", "Destiny", "Destiny 2", "Prey", "Superhot", "Fortnite",
+    "The Legend of Zelda", "Legend of Zelda", "Zelda", "Metroid", "Pokemon", "Pokemon Sun and Moon",
+    "Sonic the Hedgehog", "Super Mario Bros.", "Tetris", "Pong", "Spacewar!",
+    "Metal Gear", "Metal Gear Solid", "Metal Gear Solid 4: Guns of the Patriots",
+    "Wolfenstein", "Wolfenstein 3D", "Return to Castle Wolfenstein", "Wolfenstein: The New Order",
+    "World of Warcraft", "Warcraft", "Silent Hill", "Resident Evil", "Tomb Raider", "Mortal Kombat",
+    "Gears of War", "Gears of War 3", "The Last of Us", "The Secret of Monkey Island", "Monkey Island",
+    "Grand Theft Auto", "Counter-Strike", "Counter-Strike: Global Offensive", "Final Fantasy",
+    "Final Fantasy Type-0", "Kingdom Hearts", "Dragon Quest", "Persona 4", "Rock Band", "Guitar Hero",
+    "Guitar Hero Live", "DJ Hero", "Total War", "Age of Empires", "Civilization", "Clannad",
+    "Assassin's Creed", "Gran Turismo", "Senua's Sacrifice", "Tales of Innocence", "Resonance of Fate",
+    "Freedom Wars", "Descent: FreeSpace - The Great War", "Mystery House", "Colossal Cave Adventure",
+    "Maze War", "Tennis for Two"
+  ],
+  "platforms": [
+    "Game Boy", "Game Boy Advance", "Game Boy Color", "Nintendo DS", "Nintendo Entertainment System",
+    "Super Nintendo Entertainment System", "Nintendo 64", "GameCube", "Wii", "Wii U", "Nintendo Switch",
+    "Sega Genesis", "Mega Drive", "Sega Saturn", "Dreamcast", "Master System",
+    "PlayStation", "PlayStation 2", "PlayStation 3", "PlayStation 4", "PlayStation Portable",
+    "Xbox", "Xbox 360", "Xbox One", "Atari 2600", "Magnavox Odyssey", "Microsoft Windows", "MS-DOS"
+  ],
+  "companies": [
+    "Nintendo", "Sega", "Sony", "Sony Computer Entertainment", "Microsoft", "Atari", "Ubisoft",
+    "Ubisoft Quebec", "Relic Entertainment", "PopCap Games", "Daydream Software", "ESP Software",
+    "Nihilistic Software", "id Software", "Bungie", "Konami", "Capcom", "Square Enix", "Square",
+    "Blizzard Entertainment", "Rockstar Games", "Electronic Arts", "Activision", "Valve",
+    "Naughty Dog", "Ninja Theory", "Epic Games", "LucasArts", "Harmonix", "Bandai Namco", "Game Freak",
+    "Sierra On-Line", "Hideo Kojima"
+  ],
+  "events": ["E3", "Electronic Entertainment Expo", "Counter-Strike: Global Offensive Major Championship"],
+  "genre_terms": [
+    "first-person shooter", "third-person shooter", "role-playing game", "real-time strategy",
+    "adventure game", "point-and-click", "battle royale", "visual novel", "video game", "console",
+    "downloadable content", "RPG", "RTS", "DLC", "FPS", "MMORPG", "3D"
+  ],
+  "variants": [
+    ["\\bgame-?boy\\b", "Game Boy"],
+    ["\\bplay station\\b", "PlayStation"],
+    ["\\bx-box\\b", "Xbox"],
+    ["\\bassassin creed\\b", "Assassin's Creed"],
+    ["\\bsuper nes\\b", "Super Nintendo Entertainment System"],
+    ["\\bsnes\\b", "Super Nintendo Entertainment System"]
+  ]
+}

@@ -1,0 +1,6 @@
+view,items
+sentence,"The game was released for PlayStation 3, Windows, and Xbox 360 on 5 March 2013."
+noun phrases (spaCy noun_chunks),The game | PlayStation | Windows | Xbox | 5 March
+verbs (POS=VERB),released->release
+scenario i: verbs + NPs useful,"release-date / who-developed / who-voiced questions (e.g. Q04, Q07, Q09, Q12): the verb (released, voiced, published) selects the relation"
+scenario ii: only NPs useful,"index terms and entity lookup (catalogue of titles, platforms, companies): Game Boy, Nintendo, Tomb Raider carry the topic; verbs add little"

@@ -1,0 +1,9 @@
+{
+  "final_pipeline": "A",
+  "rule_fired": "Rule 2: |delta F1| = 0.0000 < 0.05; domain-term preservation gap = 0.1016 >= 0.05",
+  "macro_F1_A": 0.6478415103415104,
+  "macro_F1_B": 0.6478415103415104,
+  "delta_F1_A_minus_B": 0.0,
+  "delta_preservation_A_minus_B": 0.1015625,
+  "delta_bigram_rate_A_minus_B": -0.7
+}

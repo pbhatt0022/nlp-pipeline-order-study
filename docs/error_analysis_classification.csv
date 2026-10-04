@@ -1,0 +1,66 @@
+our_qid,query,error,doc_id,title,category,evidence
+Q01,Total War,FN,D41,Sakura Wars (1996 video game),relevance-judgment,Sakura Wars article never mentions Total War; label inherited from a MIRACL positive (passage about Sakura Wars unit sales)
+Q02,"Sonic AND ""Sega Genesis""",FP,D42,Educational games in the Sonic the Hedgehog series,relevance-judgment,"Educational Sonic games on the Sega Genesis; title contains Sonic, so protocol rule 1 says relevant, but labelled 0"
+Q03,Nintendo AND PlayStation,FN,D05,History of the Nintendo Entertainment System,query formulation,"History of the NES contains no ""PlayStation"", so the AND clause excludes it"
+Q03,Nintendo AND PlayStation,FP,D06,The Legend of Zelda: A Link to the Past,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D07,The Legend of Zelda: Majora's Mask,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D10,Nintendo Entertainment System,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D17,Third-person shooter,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D19,Sonic Team,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D20,List of home video game consoles,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D26,Cloud Strife,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D27,Sonic the Hedgehog,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D28,Tomb Raider (2013 video game),ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D30,Sonic the Hedgehog (1991 video game),ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D32,Tomb Raider,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D35,Pre-rendering,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D41,Sakura Wars (1996 video game),ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D44,Tomb Raider: Anniversary,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D48,Video game development,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q03,Nintendo AND PlayStation,FP,D52,Guitar Hero,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q04,"""Ash Ketchum"" AND NOT Japanese",FN,D37,Ash Ketchum,query formulation,"Ash Ketchum article mentions the Japanese voice actress, so AND NOT Japanese removes it"
+Q04,"""Ash Ketchum"" AND NOT Japanese",FN,D50,Pokemon: Advanced,query formulation,"Pokemon: Advanced mentions the Japanese opening song, so AND NOT Japanese removes it"
+Q04,"""Ash Ketchum"" AND NOT Japanese",FP,D34,Davide Garbolino,relevance-judgment,Davide Garbolino voices Ash Ketchum in Italian: topically about Ash Ketchum (rule 3) but labelled 0; answer-relevance vs topical-relevance boundary
+Q05,Metroid,FP,D01,Seventh generation of video game consoles,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q05,Metroid,FP,D05,History of the Nintendo Entertainment System,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q05,Metroid,FP,D06,The Legend of Zelda: A Link to the Past,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q05,Metroid,FP,D08,Nintendo video game consoles,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q05,Metroid,FP,D10,Nintendo Entertainment System,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q05,Metroid,FP,D17,Third-person shooter,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q05,Metroid,FP,D25,Super Nintendo Entertainment System,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q05,Metroid,FP,D51,History of Nintendo,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q06,Zelda AND (theme OR song),FP,D01,Seventh generation of video game consoles,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q06,Zelda AND (theme OR song),FP,D05,History of the Nintendo Entertainment System,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q06,Zelda AND (theme OR song),FP,D08,Nintendo video game consoles,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q06,Zelda AND (theme OR song),FP,D09,Metroid,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q06,Zelda AND (theme OR song),FP,D10,Nintendo Entertainment System,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q06,Zelda AND (theme OR song),FP,D13,The Legend of Zelda: Spirit Tracks,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q06,Zelda AND (theme OR song),FP,D25,Super Nintendo Entertainment System,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q06,Zelda AND (theme OR song),FP,D51,History of Nintendo,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q07,"""Tomb Raider""",FP,D15,PlayStation (console),ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q07,"""Tomb Raider""",FP,D29,Galleon (video game),ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q10,"shooter AND NOT ""first person""",FN,D11,Early history of video games,relevance-judgment,Early history of video games: no mention of third-person shooters
+Q10,"shooter AND NOT ""first person""",FN,D17,Third-person shooter,query formulation,"Third-person shooter article contrasts the genre with first-person shooters, so AND NOT ""first person"" removes the key document"
+Q10,"shooter AND NOT ""first person""",FP,D20,List of home video game consoles,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q10,"shooter AND NOT ""first person""",FP,D27,Sonic the Hedgehog,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q10,"shooter AND NOT ""first person""",FP,D31,The Legend of Zelda,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q10,"shooter AND NOT ""first person""",FP,D48,Video game development,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q11,"""first video game""",FN,D20,List of home video game consoles,query formulation,"exact phrase ""first video game"" absent"
+Q11,"""first video game""",FN,D51,History of Nintendo,query formulation,"exact phrase ""first video game"" absent"
+Q11,"""first video game""",FP,D09,Metroid,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q11,"""first video game""",FP,D27,Sonic the Hedgehog,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FN,D48,Video game development,relevance-judgment,Video game development: no mention of SNES / Super Nintendo
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D03,Zelda's Adventure,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D06,The Legend of Zelda: A Link to the Past,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D09,Metroid,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D12,Koji Kondo,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D15,PlayStation (console),ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D19,Sonic Team,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D27,Sonic the Hedgehog,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D30,Sonic the Hedgehog (1991 video game),ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D31,The Legend of Zelda,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D35,Pre-rendering,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D36,Link: The Faces of Evil and Zelda: The Wand of Gamelon,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D46,Ridley (Metroid),ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D49,The Legend of Zelda CD-i games,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic
+Q12,"SNES OR ""Super Nintendo Entertainment System""",FP,D51,History of Nintendo,ranking / Boolean set (passing mention),document mentions the query terms in passing; it matches the Boolean query but is not about the topic

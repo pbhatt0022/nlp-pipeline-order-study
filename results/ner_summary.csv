@@ -1,0 +1,3 @@
+system,total,correct,incorrect,missed
+spaCy default,51,29,13,9
+spaCy + EntityRuler,51,37,6,8

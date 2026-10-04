@@ -1,0 +1,5 @@
+tokenizer,punctuation_types,case_variant_groups,possessive_tokens,hyphen_split_counter_strike,game_boy_split,numeric_types,example_case_variants
+nltk,28,2106,2450,0,143,463,"a, abandoned, about, access, accessories, acclaim"
+spacy,35,2131,2450,0,143,492,"a, abandoned, about, access, accessories, acclaim"
+custom,31,2114,2434,0,143,699,"a, abandoned, about, access, accessories, acclaim"
+hybrid,31,2103,2430,0,1,698,"a, abandoned, about, access, accessories, acclaim"

@@ -1,0 +1,5 @@
+Measure,Before Processing,After (Pipeline A),After (Pipeline B)
+Documents,53,53,53
+Tokens,251482,176387,137253
+Unique Tokens (case-sensitive),18192,13165,11247
+Vocabulary Size (case-folded terms),16030,13165,11247

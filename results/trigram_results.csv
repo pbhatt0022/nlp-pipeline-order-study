@@ -1,0 +1,21 @@
+pipeline,n,n_gram,rank,gram,count,frequency,meaningful
+A,3,trigram,1,as well as,121,0.00069,False
+A,3,trigram,2,be release on,97,0.00055,False
+A,3,trigram,3,video game console,82,0.00047,True
+A,3,trigram,4,super smash bros,76,0.00043,True
+A,3,trigram,5,majora 's mask,67,0.00038,True
+A,3,trigram,6,game such as,51,0.00029,False
+A,3,trigram,7,be develop by,51,0.00029,False
+A,3,trigram,8,be base on,47,0.00027,False
+A,3,trigram,9,be release for,41,0.00023,False
+A,3,trigram,10,game be release,40,0.00023,True
+B,3,trigram,1,video game consol,82,0.0006,True
+B,3,trigram,2,super smash bros,76,0.00055,True
+B,3,trigram,3,majora 's mask,67,0.00049,True
+B,3,trigram,4,home video game,40,0.00029,True
+B,3,trigram,5,video game industri,38,0.00028,True
+B,3,trigram,6,zelda 's adventur,37,0.00027,True
+B,3,trigram,7,third parti develop,29,0.00021,True
+B,3,trigram,8,third person shooter,29,0.00021,True
+B,3,trigram,9,video game develop,23,0.00017,True
+B,3,trigram,10,refer extern link,23,0.00017,True

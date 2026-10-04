@@ -1,0 +1,80 @@
+lexicon_entry,lexicon_category,default_label,default_label_counts,ruler_label
+Halo,titles,ORG,{'ORG': 2},PRODUCT
+Halo Wars,titles,FAC,{'FAC': 1},PRODUCT
+Prey,titles,PERSON,{'PERSON': 1},PRODUCT
+Fortnite,titles,PERSON,{'PERSON': 3},PRODUCT
+The Legend of Zelda,titles,WORK_OF_ART,"{'WORK_OF_ART': 103, 'ORG': 1}",PRODUCT
+Legend of Zelda,titles,ORG,"{'ORG': 3, 'PRODUCT': 1}",PRODUCT
+Zelda,titles,NORP,"{'NORP': 178, 'PERSON': 67, 'ORG': 10, 'FAC': 1}",PRODUCT
+Metroid,titles,ORG,{'ORG': 197},PRODUCT
+Pokemon,titles,PERSON,"{'PERSON': 56, 'ORG': 25, 'PRODUCT': 7}",PRODUCT
+Sonic the Hedgehog,titles,PERSON,"{'ORG': 4, 'PERSON': 10}",PRODUCT
+Super Mario Bros.,titles,ORG,{'ORG': 42},PRODUCT
+Tetris,titles,PRODUCT,"{'PRODUCT': 3, 'PERSON': 1, 'ORG': 1}",PRODUCT
+Pong,titles,GPE,"{'GPE': 9, 'ORG': 3}",PRODUCT
+Metal Gear,titles,FAC,"{'FAC': 1, 'PERSON': 1}",PRODUCT
+Metal Gear Solid,titles,PERSON,"{'PERSON': 2, 'FAC': 1}",PRODUCT
+Silent Hill,titles,ORG,{'ORG': 1},PRODUCT
+Resident Evil,titles,ORG,{'ORG': 1},PRODUCT
+Tomb Raider,titles,PERSON,"{'PERSON': 137, 'WORK_OF_ART': 3, 'ORG': 6}",PRODUCT
+Mortal Kombat,titles,PERSON,{'PERSON': 4},PRODUCT
+Gears of War,titles,EVENT,{'EVENT': 3},PRODUCT
+Grand Theft Auto,titles,ORG,"{'ORG': 3, 'EVENT': 1}",PRODUCT
+Final Fantasy,titles,ORG,"{'GPE': 1, 'ORG': 20, 'FAC': 3, 'PERSON': 1}",PRODUCT
+Kingdom Hearts,titles,ORG,"{'PERSON': 8, 'ORG': 21}",PRODUCT
+Dragon Quest,titles,ORG,{'ORG': 3},PRODUCT
+Rock Band,titles,PERSON,"{'PERSON': 9, 'ORG': 1}",PRODUCT
+Guitar Hero,titles,ORG,"{'ORG': 95, 'WORK_OF_ART': 9, 'PERSON': 2}",PRODUCT
+Guitar Hero Live,titles,WORK_OF_ART,"{'WORK_OF_ART': 21, 'ORG': 2, 'PERSON': 2}",PRODUCT
+DJ Hero,titles,ORG,"{'ORG': 6, 'WORK_OF_ART': 1}",PRODUCT
+Total War,titles,EVENT,{'EVENT': 59},PRODUCT
+Gran Turismo,titles,ORG,{'ORG': 3},PRODUCT
+Tennis for Two,titles,WORK_OF_ART,{'WORK_OF_ART': 1},PRODUCT
+Game Boy,platforms,FAC,"{'FAC': 25, 'EVENT': 1}",PRODUCT
+Game Boy Advance,platforms,FAC,"{'FAC': 15, 'PERSON': 2}",PRODUCT
+Game Boy Color,platforms,PERSON,"{'PERSON': 1, 'ORG': 1}",PRODUCT
+Nintendo Entertainment System,platforms,ORG,{'ORG': 8},PRODUCT
+Super Nintendo Entertainment System,platforms,ORG,{'ORG': 10},PRODUCT
+Nintendo 64,platforms,PERSON,{'PERSON': 3},PRODUCT
+GameCube,platforms,PRODUCT,"{'PRODUCT': 46, 'ORG': 9}",PRODUCT
+Wii,platforms,PERSON,"{'PERSON': 33, 'GPE': 1, 'ORG': 4, 'LOC': 1}",PRODUCT
+Wii U,platforms,PERSON,"{'PERSON': 18, 'GPE': 11}",PRODUCT
+Nintendo Switch,platforms,PERSON,"{'PERSON': 15, 'ORG': 2}",PRODUCT
+Sega Genesis,platforms,ORG,{'ORG': 1},PRODUCT
+Mega Drive,platforms,PERSON,{'PERSON': 5},PRODUCT
+Sega Saturn,platforms,PERSON,{'PERSON': 4},PRODUCT
+Dreamcast,platforms,ORG,{'ORG': 42},PRODUCT
+Master System,platforms,ORG,{'ORG': 1},PRODUCT
+PlayStation,platforms,PRODUCT,"{'PRODUCT': 186, 'ORG': 5}",PRODUCT
+PlayStation 2,platforms,PRODUCT,{'PRODUCT': 36},PRODUCT
+PlayStation 3,platforms,PRODUCT,{'PRODUCT': 41},PRODUCT
+PlayStation 4,platforms,PRODUCT,{'PRODUCT': 15},PRODUCT
+PlayStation Portable,platforms,PRODUCT,{'PRODUCT': 7},PRODUCT
+Xbox,platforms,ORG,{'ORG': 39},PRODUCT
+Xbox 360,platforms,ORG,{'ORG': 7},PRODUCT
+Xbox One,platforms,ORG,{'ORG': 1},PRODUCT
+Atari 2600,platforms,PRODUCT,{'PRODUCT': 2},PRODUCT
+Magnavox Odyssey,platforms,PERSON,{'PERSON': 2},PRODUCT
+Microsoft Windows,platforms,ORG,{'ORG': 18},PRODUCT
+MS-DOS,platforms,ORG,{'ORG': 1},PRODUCT
+Nintendo,companies,ORG,"{'ORG': 935, 'PERSON': 2, 'PRODUCT': 1}",ORG
+Sega,companies,PERSON,"{'PERSON': 252, 'LOC': 5, 'ORG': 1}",ORG
+Sony,companies,ORG,{'ORG': 192},ORG
+Sony Computer Entertainment,companies,ORG,{'ORG': 7},ORG
+Microsoft,companies,ORG,{'ORG': 36},ORG
+Atari,companies,ORG,{'ORG': 29},ORG
+Ubisoft,companies,GPE,{'GPE': 3},ORG
+Bungie,companies,GPE,{'GPE': 2},ORG
+Konami,companies,PERSON,"{'PERSON': 19, 'ORG': 3}",ORG
+Capcom,companies,ORG,{'ORG': 16},ORG
+Square Enix,companies,PERSON,"{'PERSON': 21, 'ORG': 1}",ORG
+Square,companies,PERSON,"{'PERSON': 15, 'GPE': 1, 'ORG': 2}",ORG
+Rockstar Games,companies,PRODUCT,"{'PRODUCT': 2, 'ORG': 1}",ORG
+Electronic Arts,companies,ORG,"{'ORG': 1, 'PERSON': 1}",ORG
+Activision,companies,ORG,"{'ORG': 77, 'PERSON': 2}",ORG
+Valve,companies,NORP,{'NORP': 1},ORG
+Naughty Dog,companies,PERSON,{'PERSON': 2},ORG
+Epic Games,companies,ORG,{'ORG': 1},ORG
+Harmonix,companies,PERSON,"{'GPE': 4, 'PERSON': 10}",ORG
+Game Freak,companies,GPE,"{'GPE': 4, 'FAC': 4}",ORG
+E3,events,ORG,"{'ORG': 4, 'PRODUCT': 2}",EVENT

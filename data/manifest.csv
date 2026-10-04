@@ -1,0 +1,54 @@
+doc_id,wikipedia_pageid,title,source_qid,source_our_qid,role,body_chars
+D01,11762000,Seventh generation of video game consoles,train:4066,Q03,positive,25113
+D02,12887061,Empire: Total War,dev:4277,Q01,positive,27356
+D03,1428296,Zelda's Adventure,train:4066,Q03,positive,10838
+D04,15460262,Tomb Raider (comics),train:368,Q07,negative,7214
+D05,1571248,History of the Nintendo Entertainment System,train:2900,Q12,positive,39323
+D06,165820,The Legend of Zelda: A Link to the Past,train:1203,Q06,positive,25360
+D07,165824,The Legend of Zelda: Majora's Mask,train:1203,Q06,positive,29365
+D08,16612113,Nintendo video game consoles,train:2900,Q12,positive,31898
+D09,176480,Metroid,train:112,Q05,negative,25296
+D10,18944028,Nintendo Entertainment System,train:2900,Q12,negative,60333
+D11,19992532,Early history of video games,train:285,Q11,positive,30514
+D12,219026,Koji Kondo,train:1203,Q06,positive,6759
+D13,22132698,The Legend of Zelda: Spirit Tracks,train:1203,Q06,negative,28742
+D14,23151060,List of Sonic Team games,train:3281,Q02,positive,2322
+D15,23964,PlayStation (console),train:4066,Q03,negative,55439
+D16,2445129,List of Kingdom Hearts characters,dev:2436,Q08,positive,64821
+D17,25394701,Third-person shooter,train:1278,Q10,positive,11358
+D18,25856384,Cloud Kingdoms,dev:2436,Q08,negative,7037
+D19,26800,Sonic Team,train:3281,Q02,positive,17969
+D20,27048792,List of home video game consoles,train:4066,Q03,negative,8545
+D21,27262788,List of Metroid characters,train:112,Q05,negative,23034
+D22,27505795,List of songs in Guitar Hero: Warriors of Rock,train:12,Q09,positive,8478
+D23,27582142,Total War: Shogun 2,dev:4277,Q01,positive,18836
+D24,27965355,Anna Anthropy,train:285,Q11,negative,4915
+D25,28314,Super Nintendo Entertainment System,train:2900,Q12,positive,35335
+D26,289661,Cloud Strife,dev:2436,Q08,positive,46600
+D27,2898752,Sonic the Hedgehog,train:3281,Q02,positive,69190
+D28,29924238,Tomb Raider (2013 video game),train:368,Q07,positive,33090
+D29,2993945,Galleon (video game),train:368,Q07,negative,3497
+D30,300257,Sonic the Hedgehog (1991 video game),train:3281,Q02,negative,34199
+D31,30035,The Legend of Zelda,train:1203,Q06,positive,61670
+D32,30361,Tomb Raider,train:368,Q07,positive,44347
+D33,30918076,Yoshi (video game series),train:2900,Q12,positive,2654
+D34,31030773,Davide Garbolino,dev:4128,Q04,negative,6639
+D35,3157091,Pre-rendering,train:285,Q11,negative,6751
+D36,40563872,Link: The Faces of Evil and Zelda: The Wand of Gamelon,train:4066,Q03,positive,18900
+D37,455243,Ash Ketchum,dev:4128,Q04,positive,15091
+D38,46408645,Guitar Hero Live,train:12,Q09,negative,32620
+D39,46752781,List of songs in Guitar Hero Live,train:12,Q09,positive,7652
+D40,529279,Sonic Jam,train:3281,Q02,positive,8657
+D41,53985422,Sakura Wars (1996 video game),dev:4277,Q01,positive,41833
+D42,57443477,Educational games in the Sonic the Hedgehog series,train:3281,Q02,negative,9018
+D43,579523,List of generation II Pokémon,dev:4128,Q04,negative,9795
+D44,6003023,Tomb Raider: Anniversary,train:368,Q07,positive,27526
+D45,6048021,Sarah Natochenny,dev:4128,Q04,positive,4878
+D46,652308,Ridley (Metroid),train:112,Q05,positive,8402
+D47,653522,Rome: Total War,dev:4277,Q01,positive,12348
+D48,700265,Video game development,train:285,Q11,positive,63347
+D49,7103269,The Legend of Zelda CD-i games,train:4066,Q03,positive,6750
+D50,7202595,Pokémon: Advanced,dev:4128,Q04,positive,2594
+D51,7225705,History of Nintendo,train:285,Q11,positive,75445
+D52,9432075,Guitar Hero,train:12,Q09,positive,60771
+D53,9785797,The Legend of Zelda: Skyward Sword,train:1203,Q06,negative,41277
